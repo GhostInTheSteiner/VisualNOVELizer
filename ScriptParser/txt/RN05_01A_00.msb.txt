@@ -1,0 +1,153 @@
+Sister Centipede: “Allow me to explain what a monopole is.”
+Sister Centipede: “Also known as a magnetic monopole, its existence has yet to be observed in reality.”
+Sister Centipede: “It was a hypothetical elementary particle.”
+Sister Centipede: “That is, until August 11, 2019.”
+Sister Centipede: “Initially, magnets and ferromagnets were magnetic dipoles, always with a South and North Pole.”
+Sister Centipede: “For example, even if one were to break a bar magnet in half, they would not be a separate south pole and north pole.”
+Sister Centipede: “They would simply become two smaller bar magnets, each with their own south poles and north poles.” 
+Sister Centipede: “Concerning why magnets always have a south pole and north pole...”
+Sister Centipede: “This has yet to be fully explained scientifically.”
+Sister Centipede: “The most plausible theory is that it is caused by the movement of electrons spinning around an atomic nucleus.”
+Sister Centipede: “But to explain it requires a quantum mechanical approach. Clarification via unified field theory is pending.”
+Sister Centipede: “Now I'll explain how a magnet is created.”
+Sister Centipede: “In a magnet, the behaviors of magnetism and electricity are closely related.”
+Sister Centipede: “When an electrical current is passed through a coil, magnetism is created. This is an electromagnet.”
+Sister Centipede: “Ferromagnets such as iron, cobalt, and nickel also become magnets temporarily upon contact with a magnet.”
+Sister Centipede: “However, their rate of demagnetization over time is high, and magnetism can even be lost within a matter of days.”
+Sister Centipede: “Heating a ferromagnet to its Curie temperature causes a phase transition into a paramagnet.”
+Sister Centipede: “Atoms in said substance tend to arrange along Earth's magnetism. They face the same direction as geomagnetism.”
+Sister Centipede: “But geomagnetism is a weak magnetic force, so the number of atoms that face in one direction is not sizeable.”
+Sister Centipede: “By heating a ferromagnet to its Curie temp and aligning the facing of atoms...”
+Sister Centipede: “...Then cooling it in this state of magnetization, its atoms will keep their alignment.”
+Sister Centipede: “This is called a permanent magnet.”
+Sister Centipede: “Despite its name, the magnetism isn't literally permanent. It just has a very low rate of demagnetization over time.”
+Sister Centipede: “According to Maxwell's equations, which calculate the behavior of electric and magnetic fields, lines of magnetic force...”
+Sister Centipede: “...Can't be broken partway or newly created. This means that it must always flow from a north pole to its corresponding south pole.”
+Sister Centipede: “This also leads to the conclusion that neither a north pole nor a south pole can exist by itself.”
+Sister Centipede: “However, such a monopole exists right here.”
+Sister Centipede: “This changes the relationship between electricity and magnetism. Its existence was only theoretical until now.”
+Sister Centipede: “Simply put, just like a positive charge and a negative charge can exist independently in electricity...”
+Sister Centipede: “...A north pole and a south pole can also exist independently in magnetism.”
+Sister Centipede: “This can be achieved by rewriting a portion of Maxwell's equations to—”
+Kaito: “Enough. Stooop.”
+Despite my forceful interruption, Airi shows no displeasure and simply obeys. Er, I guess she's Sister Centipede right now.
+Kaito: “This is all giving me a headache.”
+Kaito: “I literally have no clue what you're talking about.”
+Sister Centipede: “These are the very basics of magnetism, though.”
+Kaito: “I don't care if they are. I just want you to simply explain what a monopole is and why it fell here. That's all.”
+Sister Centipede: “Understood.”
+Sister Centipede: “As I explained, a monopole is a hypothetical elementary particle. The experiment that Master tasked me with...”
+Sister Centipede: “...Was to use the EGI System to emit electromagnetic waves into Earth's magnetosphere to create a monopole.”
+So that sound is the EGI System!
+Sister Centipede: “2,946 verification tests were performed up until now. This resulted in 2,945 failures and one success.”
+Kaito: “Does this mean Kimijima Kou was trying to obtain a monopole? Why?”
+Sister Centipede: “I don't know. Please confirm this with Master himself.”
+His objective might be written in Kimijima Report No. 3 or beyond.
+Kaito: “You said monopoles are a hypothetical particle. So how is this thing actually here?”
+Sister Centipede: “NASA's 2003 Ulysses Project resulted in data proving the existence of monopoles in extremely close proximity to the Sun.”
+Kaito: “Oh, that was in Report No. 1.”
+Though those research results were suppressed by the Tavistock Institute and the Committee of 300.
+They put pressure on NASA, eh?
+The fact that I actually buy that means I've become a full-blown conspiracy theorist.
+This is really bad.
+I've been corrupted by Kimijima Kou.
+Sister Centipede: “Master obtained the data from NASA in secret and implemented a plan to create a monopole in Earth's magnetosphere.”
+Sister Centipede: “That would be the EGI System.”
+Kaito: “So you made a monopole by sending buzzing sounds into space?”
+Sister Centipede: “Correct.”
+She nods like this is the most natural thing in the world.
+Kaito: “It's that easy?”
+Sister Centipede: “Not at all.”
+Sister Centipede: “The magnetosphere, rotation and revolution of Earth, solar activity, and angle of EM wave emission all influence it.”
+Sister Centipede: “As far as factors contributing to today's success are concerned...”
+Sister Centipede: “The extreme state of solar activity this year is one.”
+Sister Centipede: “And the other?”
+Sister Centipede: “Your assistance when you opened and shut the radar dome at the top of the transmission tower on July 31.”
+Kaito: “Huh? Me?”
+Sister Centipede: “Due to your actions, the direction of the antenna was slightly corrected.”
+Sister Centipede: “I believe this coincidental shift to the EM wave emission coordinates contributed to today's success.”
+Sister Centipede: “The coordinates have now been mapped, and the possibility of creating further monopoles is high.”
+Kaito: “Wait, you're going to make more of these dangerous things fall from the sky?”
+If they start falling regularly, the park might have to be closed.
+Kaito: “It'll get harder to spend time here...”
+Kaito: “All I wanted was to relax and focus on gaming.”
+I suddenly realize something.
+A way to interfere with all of this.
+Kaito: “So, if the antenna's direction is changed, those things won't fall?”
+Sister Centipede: “Correct.”
+Kaito: “Then I guess I'll do that.”
+Sister Centipede: “However, to accomplish that, you have two options: rewrite the EGI System program...”
+Sister Centipede: “...Or intentionally change the angle of the antenna each day.”
+Sister Centipede: “Master had instructed me to reset the optimal EGI System coordinates every morning to keep the experiment going.”
+I'd have to climb that tower every day...?
+Not only would that require a bit of courage on my part, it'd also be a pain in the ass.
+I-I guess I'll pass on it for today.
+Kaito: “By the way, what should I do with the monopole that fell here?”
+I look down at the monopole at my feet once again.
+Kaito: “...?”
+For a hot second, I thought I was seeing things. I rub my eyes.
+Something's off.
+Why does the grass around it look normal, but the rock itself seem blurry?
+It's like there's a thin haze stretched around the monopole.
+You could also say it resembles a layer of extremely fine grains of sand.
+I squint my eyes at it, and it looks like those grains are spinning around the stone at high speeds... maybe?
+They can't actually be spinning around... can they?
+When I look at the round pachinko ball-like in the center, I notice something very different too.
+If I had to make a comparison, it looks like an anko bread roll with a cut in it.
+It has an unexpectedly flat shape.
+Sister Centipede: “Please do not make the success of the monopole formation experiment public.”
+Kaito: “Why not?”
+Sister Centipede: “You do not have Master's approval.”
+Kaito: “Your master died almost 10 years ago. I couldn't get approval even if I waited 100 years.”
+Sister Centipede: “The experiment was prepared and implemented by Master.”
+Sister Centipede: “Therefore, any public announcement of the discovered monopole involves Master's will.”
+Sister Centipede: “Also, announcing such a thing to the world could draw the attention of the Committee of 300.”
+Kimijima Kou was extremely cautious when it came to the Committee of 300.
+They're an organization powerful enough to hide evidence of the monopoles that NASA discovered near the Sun.
+In that case, if I did something stupid like go public about finding a monopole here, my life could be in danger...
+This is starting to sound like a Hollywood blockbuster.
+It's too much for a simple high schooler like me.
+Kaito: “Okay, Airi-chan. I won't go public with this monopole stuff.”
+Sister Centipede: “Thank you for your cooperation.”
+Sister Centipede: “However, the success of this experiment was your achievement, so you have the right to ownership.”
+Kaito: “Excuse me?”
+Sister Centipede: “There are options outside of public announcement. Feel free to take it with you or dispose of it.”
+Kaito: “That's all well and good, but...”
+This is a problem.
+Kaito: “Even if I wanted to pick it up, it's crackling with electricity. Plus, it might explode or something.”
+Kaito: “I can't take something that dangerous home with me.”
+But if I left it here, some dog out for a walk or a little kid playing around could end up touching it instead.
+Because of how slowly it fell, it didn't leave an obvious crater or anything.
+If someone who didn't know better saw this, they'd probably think it's just some kind of random rock.
+That makes it even more dangerous.
+Heck, they could absentmindedly step on it, causing it to discharge electricity.
+Depending on what happens, it could be life-threatening.
+Kaito: “I should at least move the thing.”
+Kaito: “Maybe leave it on the first floor of the old community center...”
+If I leave it under the stairs inside the building, there's almost no chance of a rando carelessly stepping on it.
+The only problem is, well, how do I get it there?
+Kaito: “Is there a way to carry this?”
+Sister Centipede: “That is unclear. It's still an unknown particle, after all.”
+Sister Centipede: “By the way, I'm terribly sorry, but could you upload a photo or video of the monopole?”
+Sister Centipede: “ and Sister Centipede have not actually seen it for themselves yet.”
+Kaito: “Whaa? Seriously?”
+Kaito: “If I upload it to ‘IRUO.’, people from around the world might flood this park.”
+I have no idea what it's worth, but even I know that its discovery is a huge deal.
+If the world learned of it, there's no way I'd be able to game anymore. I bet it'd get dangerous around here too.
+I don't want that to happen.
+Kaito: “If you're cool with it, I can take a picture and give Airi-chan the data directly.”
+Sister Centipede: “Understood.”
+Sister Centipede: “I'll designate an upload location. Please send it there.”
+It takes less than two minutes to take the photo and upload it to the designated place.
+Sister Centipede: “I've received the data.”
+Sister Centipede: “It looks like some kind of mineral. Even Master didn't anticipate this form.”
+Kaito: “I didn't ask for your impressions. Just tell me how to carry this thing.”
+Sister Centipede: “It should be safe to pick up using non-magnetic rods.”
+Guess I'll give it a shot.
+I find a couple of tree branches on the ground and try picking it up between them.
+The haze around the monopole looks like it sways.
+Kaito: “I-Is this really going to be okay?”
+The monopole itself looks like it's faintly emitting light from inside itself.
+I'm afraid it could explode at any moment.
+Let's just hurry and get it inside the building!
+As for what I'm gonna do with this newfound pain in the ass, well... I guess I'll try talking to someone about it.

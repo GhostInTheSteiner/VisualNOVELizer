@@ -1,0 +1,179 @@
+Despite having to pull out from the TNSC, our tests immediately picked up again with the Expo rapidly approaching.
+According to Subaru and Frau, there are issues popping up all over due to the hurried construction.
+We're running these tests to take care of them, one by one.
+That's how we go about adjusting Model-2's settings, repeating things over and over again.
+Until the transport truck prepared for us by JAXA arrives, we have no choice but to awkwardly continue our tests here.
+Though to be perfectly honest, I'm more interested in the VAB that's basically right next to us. It's practically killing me.
+The launch date is scheduled for late February. Compared to the schedule for the H-ⅡA Rockets, it's crazy fast.
+Oh, and that reminds me. I saw some people from the mass media earlier this morning.
+Apparently the reopening of TNSC has become quite the conversation piece in Tokyo.
+Akiho: “Kaiii! The power supply just cut off! You're spacing out!”
+Akiho: “Stay focused!”
+Oh, crap.
+I shift gears and regrip the handle of the laser gun.
+I then fix the iron sights onto the parabolic antenna.
+When the targeting aligns, the gun automatically fires its high output laser.
+We're currently doing a walking test with Junna as the pilot.
+The sight of a giant robot lumbering around is imposing, even more so since we're indoors.
+That said, the walk cycle is a little bit stiff.
+Its actual steps and overall movement are fairly smooth.
+It's just that after taking two steps, it'll occasionally stop for a few seconds.
+It takes a step, then it goes to move the other leg.
+That's when it'll sometimes stop for around 3-4 seconds. It's extremely frustrating to watch.
+Why is this happening, you ask? Junna is failing at consecutive inputs.
+To make Model-2 advance, you just have to input the “Advance” command. However, that'll only move it two steps.
+To make it continue walking, as soon as the previous action completes, another “Advance” command has to be input.
+Repeating this at length will result in uninterrupted walking.
+But Junna's timing is incredibly off.
+Junna: “Um... um...”
+Frau: “H-Hey, Karate-senpai, you're missing too many inputs.”
+The command for advancing consists of three well-timed consecutive button presses.
+As for why such a basic action requires a complex input, apparently it's for safety purposes.
+We're dealing with an eight meter tall giant robot. Even taking a single step is incredibly dangerous.
+Imagine what would happen if someone was standing at its feet, and it started advancing due to an accidental input?
+To prevent that, all of Model-2's actions are set to require at least three button presses.
+Problem is, this means that even the most basic process of making Model-2 walk requires a three button input.
+Kill-Ballad has me used to stuff like this, but Junna's no gamer. This might be a bit too much for her.
+Speaking of which, she doesn't look the least bit relaxed as she controls Model-2.
+Her gaze keeps fidgetting back and forth between the PokeCom control screen and the robot itself.
+She's such a mess that just watching her is irritating me.
+Kaito: “Jun-chan, you really shouldn't look at the robot so much.”
+Junna: “Huh? But...”
+Kaito: “Always try to keep your eyes on the game screen.”
+Junna: “But, um, if I do that, I won't be able to see Model 2-chan's surroundings...”
+It makes sense that your field of view in an FPS is narrow.
+I'm used to KB, so this feels perfectly normal.
+Kaito: “Then how about not looking at the screen at all?”
+Kaito: “Hold it like you would if you were controlling the Honorary Prez.”
+It might actually be a bad thing for the omnidirectional camera to feed into the PokeCom screen.
+Kaito: “If you're so indecisive with where to look, you're not gonna be able to react in time should an unexpected situation suddenly pop up.”
+Though unlike KB, it's not like we're fighting someone. I doubt anything unexpected's gonna happen.
+Junna: “O-Okay, I got it... I appreciate the advice.”
+I have my way of doing things, and Junna has hers.
+Rather than pushing mine onto her, it's important for Junna to find what works best for her.
+The robot starts walking again.
+In terms of size, the facility is maybe 50 meters in length. Walking for 15 or 16 steps brings Model-2 to a wall.
+The operator must then input the 90 degree turn command twice—for 180 degrees total—and head back.
+On the return trip, the parabolic antenna is out of sight of the laser gun, so I get to take a break.
+Nae: “All things considered, this is pretty lame, huh?”
+Nae-san comes up beside me and smiles wryly as she whispers.
+Kaito: “It is. Even I think so.”
+Kaito: “Advance. Do a 180 degree turn after reaching a wall. Do that for 20 sets.”
+Kaito: “Next, crab-walk across the building and back. Another 20 sets.”
+Kaito: “Jun-chan and I take turns operating for both.”
+Kaito: “Advancing, turning, and crab-walking. We're practicing the basic commands by repeating them over and over again.”
+Nae: “Who came up with the training course? Subaru-kun? Akiho-chan?”
+Kaito: “Yours truly.”
+Nae: “Hohoh, how unexpected.”
+Nae-san looks me in the eyes with a mischievous smile on her face.
+Nae: “I didn't think you'd enjoy doing something so lame.”
+Kaito: “I'm wounded. You completely misunderstand me.”
+Kaito: “I don't think there's anyone in the world who likes practice via repetition as much as I do.”
+Kaito: “As the second best KB player in the world, I'm constantly putting in effort into labbing every single day.”
+Even now, I'll practice the same KB combo over and over before going to bed.
+If I didn't do that, my skills would falter, and I'd be surpassed in the rankings by other players just like that.
+Nae: “Ahahah, well, you have my apologies.”
+Nae: “This training course does make sense, though.”
+This isn't just to train me and Junna, this is so we can adjust the settings as well.
+Frau is constantly gathering telemetry data. She accounts for our habits as operators, and then makes minute adjustments.
+We're getting a feel for the controls.
+Both Junna and I each have our own unique quirks when it comes to operating Model-2.
+Command input reception timing.
+The lag between input and output.
+Frau said the UI can be optimized for things like that.
+Additionally, by providing the auto balancer with experience, the data will allow its precision to increase dramatically.
+Akiho: “Like you guys said, this is totally lame.”
+Akiho joins the conversation.
+Akiho: “If this was an anime, it'd absolutely get canceled because of low ratings.”
+Akiho: “Who wants to watch a giant, armor-less robot lumber around for forever?”
+Akiho: “You could at least mix in Gunvarrel's pose or something!”
+Akiho: “Oh, and I want to come up with some new moves, too.”
+Kaito: “We already decided on doing that after we withdraw from here and move back to the hangar.”
+Kaito: “Right now, the most important thing is for Jun-chan and I to get used to the controls.”
+Kaito: “Though if you tell me that's not necessary, I wouldn't mind skipping out on practice.”
+Akiho: “Sorry...”
+Akiho: “It's just that I'm the only one with nothing to do!”
+Akiho: “Subaru said that as president, I should be supervising everything, but...”
+I like how he's telling the president what she should be doing.
+Maybe he's the one actually pulling the strings.
+Speaking of which, Subaru isn't here for today's tests.
+Not only does he have his dad to deal with, he still has classes to attend, unlike us third years.
+Please pay no mind to our other second year, Frau, who is currently skipping school entirely.
+Akiho: “Well, if you put it the other way, that means I don't have any actual work, right?”
+Akiho: “It was exciting watching it move at first, but I'm booored.”
+Nae: “Hmm, hmm! Are you losing focus? That's no good!”
+Nae: “You're the person in charge, after all.”
+Nae: “Your job is to keep a watchful eye on everything and make sure no problems pop up.”
+Nae: “That holds true for when you go to the Expo, too.”
+Akiho: “You're right, but...”
+Akiho: “I just think I'm better suited for grunt work is all.”
+Kaito: “You did plenty of that all the way up to Model-2's completion. You can afford to take a little break.”
+Akiho: “You're not listening! I want to get more and more hyped up!”
+Nae: “Ahahah. You're like a tuna.”
+Akiho: “Excuse me...?”
+Nae: “They die if they don't keep swimming.”
+Akiho: “Oh, yeah! Yeah, that's totally me.”
+Kaito: “I'd be willing to swap places.”
+I point to the laser gun with my eyes.
+Kaito: “I'm gonna go take a look at the rocket transports again.”
+Akiho: “Not happening!”
+Akiho: “You need to make up for all the time you spent skipping out.”
+Kaito: “Is that so?”
+I mostly just don't want to be stuck here doing tests every single day.
+I don't actually plan on going to watch the rocket transports.
+The real reason I want to get away is because we've broke into 2020 and I still haven't found the last Kimijima Report.
+The reason I skipped yesterday and made excuses is because I'm looking for that last report.
+After about 30 minutes of watching the transports, I spent the rest of the time searching the island.
+I've been doing this since the end of last year.
+With no classes, I've been searching at night as well. All of my attempts have been in vain, and on top of that, my own mother thinks I'm a delinquent now.
+I didn't think it'd be this hard to find...
+Fortunately, Sister Centipede is still operational and has been providing tips as to where the last report might be.
+But this time, even Sister Centipede seems to be throwing in the towel.
+I'm getting more and more impatient.
+The Kimijima Reports predicted a large solar storm in 2020.
+It may only be January, but that doesn't change the fact that it's 2020.
+It's completely possible that today or tomorrow, a solar storm of the same scale as last year's, or even bigger, will hit Earth.
+But while I'm feeling increasingly impatient, I'm also feeling hesitant about finding the last report.
+Unlike the previous ones, Kimijima Report No. 7 isn't a detailed description of the future.
+Activating it will distribute the Kimijima Reports around the world. It's like a key that'll unlock the truth for the public.
+As far as I'm concerned, everything contained in these reports is completely true. There's no doubt in my mind.
+But even then, there's still a 0.1% chance that they end up being nothing but lies.
+Dispersing the Kimijima Reports around the world could cause unnecessary chaos, which has me feeling a tad hesitant.
+This isn't the sort of thing that a rural high school kid should be responsible for.
+Man... what have I gotten myself into?
+Yet here I am, still searching.
+I've already come this far. There's no turning back now.
+Akiho: “Hey, Kai. Your aim's off again.”
+Kaito: “Whoops.”
+The robot has already finished making its turn.
+I can see the parabolic antenna from my position.
+I hurriedly align the iron sights with it.
+While Model-2 is equipped with batteries, they're rather small. They have a three minute operational limit.
+That's why it's ideal to keep the laser aimed on Model-2 as it moves.
+...And the robot suddenly stops moving again.
+Frau: “You're making more mistakes than before, btw.”
+Junna: “Uugh, if I don't look at the screen, I can't press the buttons properly...”
+Junna complains, but she still keeps following my advice, refusing to take her eyes off Model-2.
+Junna: “I'm sorry that I can't make you move right, Model 2-chan...”
+Kaito: “You'll get the hang of it soon.”
+Akiho: “Jun, put a blast of spirit into it!”
+Nae: “It's okay, keep trying♪”
+Junna: “O-Osu!”
+Mistakes be damned, she's nothing like the girl who used to be scared of robots only half a year ago.
+Kaito: “Hey, Jun-chan. Does Model-2 scare you?”
+Junna: “Huh?”
+Junna's hands stop moving as I talk to her.
+Looks like she can't talk and operate it at the same time.
+Junna: “Nope, um, not at all.”
+Junna: “When I'm operating it, it moves just like I want it to.”
+Junna: “It even moves just like me.”
+Junna: “In some ways, it sorta... um, feels like another me.”
+Kaito: “Wild.”
+Junna: “Um... is that weird?”
+Akiho: “Not at all♪”
+Akiho happily wraps her arms around Junna.
+Junna: “W-Wah! Aaah!”
+Akiho: “Aaah, I'm so proud! I'm super duper ultra happy that you like robots now, Jun!”
+Akiho: “My brainwashing worked! Hehe.”
+Poor Junna probably has no idea how to react to your bragging.
+Well, I guess I can't deny that Akiho's pushiness might've had a tiny bit of an effect on her.

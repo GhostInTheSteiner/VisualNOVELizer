@@ -1,0 +1,204 @@
+Sparks scatter about.
+Welding these thick iron plates is my job.
+The work involves patiently connecting the iron plates in a shape as directed by the blueprints.
+If I lose focus, its overall strength would take a hit, causing damage once assembled.
+So, I have to be careful.
+Despite how I might look, I'm pretty experienced at this sort of thing.
+I've been helping with welding at the Robot Clinic ever since GunBuild-1.
+Honestly, I'm pretty confident that I'd do really well if I went to work at a local factory.
+Ah, I know! Even if I don't go to college, I can make a living working somewhere like Kamata Motors.
+Old Man Kamata can't refuse me if I really beg him. He's kind of a pushover.
+I'm sure I could pressure him into hiring me.
+All right. That'll be my last resort.
+And so I continue to focus on my welding work. That's when I feel a light pat on the back.
+I stop and raise my head.
+Subaru looked at me with a sour face.
+Akiho: “What's wrong?”
+Subaru: “Prez, Doc is calling for you.”
+Akiho: “Where is he?”
+Subaru: “Outside.”
+Doc collapsed in September due to illness and went to Kagoshima for surgery last month.
+Despite only having been discharged around 10 days ago, he's even livelier than he was before the surgery. That's how much energy he's recovered.
+Remember how he raised his voice and berated me for wanting to make GunBuild-2, saying he'd never cooperate with me again? Yeah, about that...
+Now it's the exact opposite.
+Not that I'm complaining. I'm not banned from the Clinic anymore.
+If anything, you could probably argue that Doc's been on a bit of rampage lately.
+Subaru: “What are you going to do?”
+Akiho: “I mean, I have to go.”
+I sigh and stand up.
+I make my way outside.
+It's nice out today; warm enough to get by in short sleeves despite it being November.
+But the sun sets early now.
+It's only around 5:00, but the sky is already stained orange.
+I've been sitting and working for a while now, so my back hurts a little.
+I look up at the dusk sky and stretch out my back.
+Fujita: “Yo, what took you so long?”
+Doc is waiting with a grin on his face.
+He smiles a lot more now.
+He's not so grumpy these days.
+I guess he's kinda softened up? Though that still doesn't feel right.
+Akiho: “What's up?”
+Fujita: “Take a look at this.”
+Doc pushes a cart from the scrap yard out back.
+In the cardboard box on top of it is a unique looking part.
+It's shaped like a bowl.
+But it's really big.
+It could probably hold 30 times as much rice as your average bowl.
+Fujita: “What do you think this is?”
+Subaru: “A parabolic antenna?”
+Fujita: “Subaru, what're you talkin' about? Have you gone blind?”
+Subaru: “...”
+Fujita: “I'm sure you know, Robotics Club.”
+Doc continues to look at me with a grin on his face.
+Akiho: “Before I answer, can you please explain why you call Subaru by his name but still insist on calling me Robotics Club?”
+Akiho: “You do know I have a name, right?”
+Fujita: “Don't get stuck on the details again. I decided a while ago that I'd call the president of the Robotics Club by Robotics Club.”
+Fujita: “If you got a problem with that, quit being the president.”
+That's ridiculous...
+Fujita: “Anyway, don't change the subject. I asked you what you think this is.”
+Akiho: “A vernier?”
+Fujita: “Haha! I knew I could count on you, Robotics Club.”
+He cheerfully laughs and pats my shoulder.
+Fujita: “That's exactly right. This is a homemade vernier thruster.”
+Fujita: “This'll go on Model-2 and—”
+Akiho: “No, it won't!”
+I cut Doc off before he can finish.
+Akiho: “GunBuild-2 isn't going to fly! Or even jump!”
+Fujita: “Then modify it so it can fly.”
+Akiho: “GunBuild-2 wasn't built for that!”
+Akiho: “If he flew, his legs would get crushed when he landed!”
+Fujita: “Now, now. Hold your horses.”
+Doc interrupts me.
+Fujita: “The Space Center has a facility for rocket engine combustion tests, right?”
+Fujita: “Just borrow the joint. I'll provide the fuel and—”
+Akiho: “I told you, we're not attaching a vernier!”
+Fujita: “Then how about we attach it to Model-1?”
+Akiho: “GunBuild-1's too heavy to fly! And how would we control its attitude?”
+Fujita: “That's outside of my field of expertise.”
+Akiho: “Wow... You straight up admitted it...”
+Fujita: “Listen, giant robots and vernier thrusters go together. You of all people should get that, Robotics Club.”
+Akiho: “I get it! Of course I do!”
+I nod as hard as I can, and Subaru flashes me a cold glare.
+Akiho: “But that's only in mecha anime.”
+Akiho: “GunBuild-2 doesn't have the ability to fly.”
+If we built it under the assumption it would fly, sure, we'd need vernier thrusters. But we didn't.
+Fujita: “Then it doesn't have to fly.”
+Akiho: “Huh...?”
+Fujita: “It doesn't have to fly. Just do fuel injection with the vernier thrusters.”
+Fujita: “By the way, we'll be attaching a total of 10 vernier thrusters.”
+Akiho: “Er, six on the back?”
+Fujita: “Hell no. Four.”
+Akiho: “Then three on each calf? Talk about high mobility.”
+I try imagining the form.
+Super thick legs. The calves would be thicker than the thighs.
+Akiho: “Mrmm... I'm getting fired up!”
+Fujita: “We could give it a hover function while we're at it and move it around with vernier propulsion. Not bad, right?”
+Akiho: “Hehe, like ‘He used me as a springboard?’ In that case, we should paint the body black and purple to—”
+Subaru: “AHEM!”
+Subaru clears his throat as loudly as possible.
+Subaru: “What are you two talking about?”
+Two people: “The Black Tri-Stars.”
+Subaru: “Utter nonsense.”
+Subaru's cold gaze quickly returns me to my senses.
+Akiho: “R-Right! Yeah! That's nonsense!”
+Akiho: “Doc, we're not equipping him with verniers! Really, I mean it!”
+Fujita: “Psh, you kids are lame.”
+Akiho: “If you have time to make verniers, make the parabolic antenna!”
+Akiho: “One with a clean mirror surface and no distortions.”
+Fujita: “How much?”
+Akiho: “Huh?”
+Fujita: “I'll do it, for the right price. But it's gonna cost you.”
+My ridiculous order comes with an equally ridiculous price.
+I recoil and flee into the store.
+Akiho: “Hahh...”
+Akiho: “Doc has gotten too energetic.”
+Subaru: “Agreed.”
+It's actually kind of a pain.
+Plus, he keeps bringing up ideas that he totally knows hit my strike zone.
+Akiho: “Urrggh, we can't underestimate Doc!”
+Akiho: “I never knew he was such a mad scientist!”
+Subaru: “I too thought he was more of a serious engineer. I'm quite disappointed.”
+Subaru: “The stupidity radiating off the two of you while you talked made me dizzy.”
+Akiho: “I dare you to say that to his face.”
+Subaru: “I refuse.”
+Subaru sits down on a stool, a composed expression on his face.
+Subaru: “Besides, how can you be so calm when Model-2's assembly is so far behind schedule?”
+Akiho: “Er, well, um...”
+Akiho: “I'm sure things'll work out as long as we all combine our powers!”
+Plus, the processing of parts is already about 60% complete.
+Akiho: “Once assembly begins in earnest, we'll be done in no time. Yup.”
+Subaru: “In that case, I recommend going to persuade Furugoori immediately.”
+For the drive system?
+An electric motor or a hydraulic motor. We still haven't decided, so we can't move forward. I get it.
+Akiho: “We're waiting on Doc to finish his tests, right?”
+Subaru: “You really think that's going to be usable?”
+Subaru: “If you put all your eggs in one basket and that thing ends up being a bust, it's just going to be more work.”
+The thing that Subaru is talking around...
+Well, it's the monopole that Kai found.
+When Doc got discharged 10 days ago...
+I made up my mind and tried discussing the strange material with him.
+Fujita: “What the... hell is this?”
+Akiho: “A monopole... Or so I've been told.”
+Fujita: “I've never seen such a ridiculous thing in my whole life...”
+Fujita: “I'm damn shocked you've been carrying this around. It could explode and take all of Tanegashima with it.”
+Akiho: “I-Is it seriously that dangerous?”
+Fujita: “The hell if know. How could I? This is a first in human history.”
+Akiho: “Think we could use this for GunBuild-2's electric motor?”
+Akiho: “Could you look into it? In secret from JAXA.”
+Fujita: “...”
+Akiho: “Please!”
+Fujita: “Hehehe, now this is what I'm talkin' about!”
+Fujita: “I never thought I'd ever get this excited at my age!”
+Fujita: “Looks like that surgery was completely worth it.”
+Fujita: “And you want me to look into this thing in secret?”
+Fujita: “Don't blame me if you regret it. If this is really a monopole, it might be a double-edged sword, or Pandora's Box.”
+Fujita: “That's how ridiculous this could be.”
+Fujita: “Naturally, if word of its existence leaked, it could cause conflict on a global scale.”
+Fujita: “This little sucker could bring vast wealth. But it could also bring enough misery to make all of that worthless.”
+Fujita: “Are you sure about this?”
+Akiho: “Yeah...”
+Akiho: “If we can use it to move GunBuild-2, let's do it.”
+Fujita: “Heh. I don't know if you're fearless, got nerves of steel, or if you're just plain stupid.”
+Akiho: “...”
+Akiho: “Once the Expo is over, we're going to bring it to a proper research organization.”
+Akiho: “And I only plan to use it for GunBuild-2.”
+Fujita: “All right. Give me some time.”
+Fujita: “Also, make this the Robotics Club's little secret. Don't go tellin' anyone else.”
+Fujita: “Definitely not that bastard, Mitsuhiko. He's a goddamn idiot.”
+Fujita: “I'll let you know when I'm done looking into it. Until then, don't even mention the monopole to me.”
+Fujita: “Got it?”
+And so we've been waiting on Doc to finish his research.
+Whether we'll be able to use the monopole in an electric motor...
+That'll have a huge effect on the drive system.
+But...
+Akiho: “We gotta convince Frau Bow to help us.”
+Subaru nods.
+Subaru: “Whether Model-2 moves or not is completely dependent on its programming.”
+No matter what the research results are, Model-2's systems will be built by Frau Bow.
+If Frau Bow doesn't do the work, GunBuild-2 will never be complete.
+Her role is huge.
+I've already attempted to get her help on multiple occasions.
+But Frau Bow's completely closed herself off as of late.
+I mean, she was always a shut-in.
+But now it's even worse than before.
+She won't even let Kai, the person closest to her, into her room anymore.
+Though I don't know what those two were up to when they were alone.
+Subaru: “Not to mention, the Expo inspection is next month.”
+General public giant robot entries have two inspections: one two months prior, and one right before.
+It's a special rule for this year's Expo. The first inspection only requires us to send in a video.
+We need to show the robot moving properly and explain our theme for it.
+As president, I'll be the one handling the latter.
+That's a written submission.
+Akiho: “By the way, I decided on the theme.”
+Akiho: “Bringing all of humanity peace and courage through the power of love and justice!”
+Akiho: “So, how is it? What do you think? Sounds like a mecha anime, right?”
+Subaru: “It's nonsense.”
+Subaru: “What an overplayed, ancient concept. What is this, the stone age?”
+Subaru: “Are you even taking this seriously?”
+Akiho: “Mrgrgrgr...”
+Why does he have to be so merciless?
+There's no way this punk has any friends.
+Anyway, putting that aside.
+I gotta do something about Frau Bow.
+But what can I even do?
+I'm not feeling too confident about this...

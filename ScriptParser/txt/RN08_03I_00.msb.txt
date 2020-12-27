@@ -1,0 +1,129 @@
+Akiho: “Heh... heh...”
+Subaru: “Haaah... hahh..”
+Fujita: “All right, watch carefully. Don't you take your eyes off of it.”
+Akiho: “Okay, I get it. Hurry up!”
+Subaru: “Prez, why are you whispering? You've got me doing it too now.”
+Akiho: “Cuz it makes this feel more like a secret experiment.”
+Fujita: “Who cares about that?!”
+Fujita: “Just shut up and watch!”
+Subaru: “You're whispering too, Doc...”
+Akiho: “Shhh!”
+Akiho: “Doc, let's get started.”
+I suppress my nervousness and signal to Doc.
+He nods, a stern expression on his face. He then flips on the test power switch connected to the motor.
+The motor affixed to the stand starts moving.
+On occasion, it surges with faint, light-blue beams of light.
+This is the brand new motor that Doc designed and built for GunBuild-2.
+It's the first servomotor in human history to use a magnet made out of a monopole.
+But...
+Akiho: “Hm, I know it uses monopoles and all, but it kinda lacks impact.”
+Subaru: “Prez, you're starting to sound like the president of Space Candy.”
+Akiho: “How is this any different from a regular motor?”
+Akiho: “I thought it was gonna be this super powerful tech that goes woosh, kaboom, grgrgr swoosh! You know?”
+Subaru: “Now you just sound like an idiot.”
+Yup, it's about time to ignore Subaru. Meanwhile, he's sighing out of disappointment, I guess.
+Fujita: “A high-powered motor like that would only wreck the gears.”
+Fujita: “You have to think more practically.”
+Akiho: “...”
+He scolded me.
+Fujita: “I tuned it to a level that wouldn't cause problems for Model-2 if it was installed right now.”
+Fujita: “I say tuned, but I've only really done the basics so far.”
+Subaru: “Can you give us a rundown of its capabilities?”
+Fujita: “Sure. The definitive difference between the old motor and this one is its output.”
+Fujita: “Compared to the servomotors in Model-1, it can output ten times more power with the same amount of energy.”
+Subaru: “Ten times?!”
+Fujita: “And even that ain't its full potential. This is playin' on the conservative side of things.”
+Fujita: “The monopole is something else.”
+Fujita: “With this motor, Model-2 will be able to move more than Model-1 using less power.”
+Says Doc as he shuts it off.
+Fujita: “Truth be told, this motor is an outrageous beast.”
+Fujita: “Both in capability and price.”
+Fujita: “I couldn't even begin to tell you how much this thing's gonna end up bein' worth.”
+Fujita: “But it's something that doesn't exist on Earth. I figure a few hundred thousand yen ain't gonna cut it.”
+Akiho: “Can you give us a ballpark estimate?”
+Subaru: “I wouldn't be surprised if it went over a 100 million.”
+Akiho: “Say wha...?!”
+I can't even wrap my head around a number that big.
+Akiho: “Uh, so, um, how many Skals could I buy with that kind of money?”
+Subaru: “More than 600,000 bottles.”
+Akiho: “O-Oh, okay!”
+I still can't quite fathom that large a sum of money. This one motor uses around 100 monopoles.
+Doc ground them down and compressed them. He apparently utilized the same process used to make permanent magnets.
+He showed me its insides: the magnet made out of monopoles flickered red, like it was alive.
+Even now, monopoles continue to fall onto Uchugaoka Park. It's recently become my job to pick them up.
+I swing by in the mornings and the afternoons, on the way to and from school. This used to be Kai's job.
+And so picking up the monopoles every day led me to discover something.
+After last month's solar storm, the frequency with which monopoles fall has increased dramatically.
+Now we get around 10 to 20 a day.
+There's no way this is anything but abnormal.
+All the monopoles sitting around on the grass resemble mouse poop. And that's kinda gross, to be honest.
+The neighbors have finally started to take notice of them, but they seem unphased. People here are pretty chill.
+Fortunately, nobody from JAXA has heard anything yet.
+I've also been doing my best to avoid having Dad figure things out.
+Subaru: “We're planning on using a total of 24 servomotors for Model-2.”
+Fujita: “So, we still need four more? Hrm, we should be able to wrap this up this month.”
+Fortunately for us, we have a huge stock of monopoles.
+It takes a little bit of time and money to turn them into magnets, but things are going as planned, mostly.
+To be honest, I'm actually a li'l worried about whether these motors will really be enough to move Model-2.
+I find myself wondering if we should maybe raise the number of monopoles we use per motor.
+I have no clue if using more monopoles would result in more magnetism, so maybe I'm just crazy.
+Both Subaru and Doc are against the idea.
+Subaru: “If you want to finish building Model-2 by the end of the year, we should avoid increasing the number.”
+Akiho: “But the Expo's in February, right? We still have a little bit of leeway.”
+Subaru: “If possible, I'd like to dedicate the entire next month to setting up the drive system.”
+Akiho: “Ah, okay.”
+Akiho: “Got it. All right, Doc. Go ahead and mass produce this thing!”
+Fujita: “Mass produce, my ass. You're a goddamn slave driver, I swear.”
+Fujita: “Do you really think I can make over 20 of these damn things by myself in half a month?”
+Akiho: “What? Then what are we gonna do?”
+Fujita: “We've gotta take a human-wave approach to this. I'll get the island's mechanics to cooperate.”
+Akiho: “You mean like Old Man Kamata and Old Man Minato?”
+Fujita: “Yup.”
+Subaru: “I think we should try to keep the existence of the monopole on the downlow if possible.”
+Fujita: “Then there's no way I can accept an order to make over 24 motors by February.”
+Subaru: “Your call, Prez.”
+Akiho: “All right...”
+Akiho: “I'll go to each workshop on the island and personally ask them to agree to a non-disclosure agreement.”
+Subaru: “What if they don't accept it?”
+Akiho: “Then I'll keep at it until they do!”
+Akiho: “If I talk to them about this dream of ours, I'm sure they'll cooperate!”
+Subaru: “Didn't you tell me that Doc was the only one willing to help with the construction of GunBuild-1?”
+Akiho: “Well, yeah...”
+Akiho: “And even then, no matter how much I bowed my head to him, he only reluctantly agreed to help.”
+Doc uncharacteristically breaks into a massive smile.
+Fujita: “You're damn right I did.”
+Fujita: “I'm probably the only geezer willing to play along with a brat's project that won't yield me a single damn yen.”
+Fujita: “People've got lives. The economy's in the dumps, and the job market's shrinking along with the population.”
+Fujita: “Hell, in the last five months, this island has lost half of its workshops.”
+Fujita: “Those old bastards ain't got no time to help you kids out.”
+Fujita: “Not unless you've got leverage.”
+Akiho: “Leverage...?”
+Subaru: “Why don't we try using the monopoles as our carrot on a stick?”
+Subaru: “We were going to go public with them eventually anyway.”
+Subaru: “We could give monopole usage rights to all the workshops on the island.”
+Subaru: “We know for a fact that they're going to be a hot commodity in the future.”
+Subaru: “And it could be a good way to help stimulate the island's economic growth too.”
+Akiho: “This is starting to sound like we're trying to bribe them.”
+Subaru: “Call it an investment.”
+Subaru: “Or are you suggesting all the island's workshops would be willing to help our club with nothing to gain from it?”
+Subaru: “That's bold. Bold, but nonsense.”
+Subaru: “I hope you realize that way of thinking is what got you in trouble with the VP to begin with.”
+Akiho: “Ugh, you're starting to remind me of her, Subaru.”
+Subaru: “From the get-go, I've tried to tell you that your way of thinking is naive, Prez.”
+Actually, he's right. Every time we bumped into each other, he'd say the same thing.
+He may be helping as a member of the Robotics Club now, but just a few months ago he was our sworn enemy...
+But I mean, c'mon! Couldn't he agree with me at least once in a while?
+I'm a little irritated.
+Akiho: “You big jerk!”
+I try to ruffle up Subaru's hair.
+But he swiftly dodges my lunge.
+Akiho: “H-Hey, that's not fair!”
+Subaru: “Please keep your ruffling to Yashio-senpai.”
+Subaru: “I'm not fond of being a replacement.”
+Ugh, that calmness of his totally gets under my skin!
+Fujita: “All of you, put a sock in it!”
+Fujita: “I don't care how you do it, just go and convince the other workshops to help out.”
+Fujita: “Otherwise, you ain't building no Model-2 by the end of the year. That's all there is to it.”
+Akiho: “Okay...”
+It's time for me to step up to the plate!
+Just you wait and see, Subaru!

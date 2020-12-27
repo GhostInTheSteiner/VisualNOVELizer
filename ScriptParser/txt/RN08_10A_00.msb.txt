@@ -1,0 +1,122 @@
+After I finish surfing, I drop by the old airport where Frau and Junna are shooting mocap footage.
+Frau: “Th-There, the elbow. It's too bent. The robot can't bend like that.”
+Junna: “Oh, sorry.”
+Junna: “But, um, if we don't at least reproduce this pose, it won't look much like Gunvarrel...”
+The two of them are watching the Gunvarrel anime on a PokeCom while talking things over.
+They appear to be thinking about how to reproduce Gunvarrel's signature pose.
+Model-2's number of joints prevent it from matching the show 1:1, so they're trying to simplify it.
+Oh, and by the way, Akiho decided on two performances for Model-2.
+The first one is Gunvarrel's signature pose as seen in the anime.
+The second is Junna's thing, a karate kata. They still haven't decided on the exact details of that one.
+As soon as assembly is finished, these performances will be programmed into the robot.
+Frau: “I-I tried modifying the polygonal Gunvarrel model I used in Kill-Ballad.”
+Frau: “I used the joint no., movement range, and Slender Gunvarrel's other data to faithfully reproduce its movements.”
+Slender Gunvarrel? I'm guessing she means Model-2? I suppose without its armor, it kinda looks slender...
+Frau: “B-By linking that to the RGB cameras, if you make a move that's outside its range of motion, a-an alarm'll go off.”
+Junna: “It'll beep if I do a move that Model 2-san can't.”
+Frau: “We can use that to simplify animations down to a level that Slender Gunvarrel can reproduce.”
+That's pretty handy.
+Frau: “B-By the way, Yashio-senpai. I-I noticed this a little while back, but your h-hair looks kind of moist.”
+Kaito: “Huh? Oh, I was just surfing is all.”
+Frau: “Duhuhu, how erotic. Wet hair is just, the best! Mm, deliciously lewd.”
+Frau: “D-Don't you agree, Karate-senpai?”
+Junna: “Huh? M-Me...?”
+Junna: “I, um, well, I...”
+Junna: “I-I don't really understand, so I'm gonna go for a run and clear my head!”
+Junna's face goes bright red as she suddenly dashes off toward the runway.
+Kaito: “Jun-chan sure likes running.”
+I watch Junna's back get smaller, and force out a smile.
+Frau: “K-Karate-senpai's full of carnal desire, Hahh Hahh. J-Just know that running won't fix your problem.”
+Kaito: “Kona-chan, Jun-chan's older than you, so try not to tease her so much, okay?”
+Kaito: “And stop looking at me with those lewd eyes of yours.”
+Frau: “B-But I refuse. I-I'm just going to keep imagining things u-until you act on them. 2ez.”
+Kaito: “...”
+Frau: “W-Well, I guess it's sorta taboo for a fujo to say that to the person they're having delusions about.”
+Frau: “But I don't play by the rules.”
+Frau: “S-So, I'm giving it everything I've got.”
+Kaito: “...”
+She's the type who won't stop going if you try and complain at her.
+So, I decide not to pursue the topic any further, opting to ask her what I originally intended to.
+Kaito: “There's something I wanted to ask you.”
+Kaito: “Do you have any idea where Kimijima Report No. 6 could be?”
+I pull up the map app on my PokeCom.
+No. 6's flags were at Nagahama Coast, Cosmo Resort and the Masuda Tracking and Communication Center.
+I activated the flag at Nagahama Coast, but no location was specified, so I doubt it mattered where I did it.
+Which means...
+Kaito: “Both the Cosmo Resort and the Masuda Tracking and Communication Center are in Masuda.”
+The Masuda district is a small community. It's where Junna's house and karate dojo are located.
+It's on the Pacific side of central Tanegashima.
+Kaito: “And that's why I think it could be around this area.”
+Frau: “G-Give me the trends and steps for the other five reports, plz.”
+Trends and steps, huh...
+I always left that to Sister Centipede, so I never thought it through for myself.
+I start naming off the places where I've found reports so far.
+Frau thinks to herself for a bit, then promptly gives up.
+Frau: “I-I wasn't even born on this island. I-Isn't it weird to ask me?”
+Frau: “A l-local would be way more familiar with this. SMH.”
+Kaito: “You're right, but...”
+Junna: “What are you guys talking about?”
+Junna returns from her run, a layer of sweat on her forehead.
+I guess I'll run it by her too.
+Junna: “Um...”
+Junna stares at the map for a while, then timidly opens her mouth.
+Junna: “I feel like all the places you found reports are famous spots.”
+Kaito: “How so?”
+Junna: “You know, they kind of seem like areas that would be marked on a sightseeing map.”
+Junna: “Oh, s-sorry. You can just ignore me... I'm sure I'm totally wrong.”
+Kaito: “No... That's not a bad idea at all.”
+Frau: “I never thought about that.”
+Kaito: “It's true. They were never hidden in the middle of some sugarcane field or in some random person's yard.”
+Frau: “Th-Then doesn't that make things simple?”
+Frau: “A place near M-Masuda, written on a sightseeing map. That's my FA.”
+Junna: “That'd be, um, the Masuda Tracking and Communication Center and the Cosmo Resort...”
+Kaito: “Right, but I just went there to activate flags.”
+Junna: “Oh, huh...”
+But I suppose I could check them again today.
+We managed to narrow down the candidates to seven spots total.
+If I don't find it at any of those spots, I'll have to expand the search area. Time is not on my side.
+Kaito: “Thanks, you were a huge help.”
+Frau: “Is Airi-tan really disappearing tomorrow?”
+Frau says sadly.
+Frau: “This is so wrong...”
+Kaito: “You're the one who predicted this'd happen.”
+Frau: “O-Oh right, my bad. Duhuhu.”
+Frau: “Regardless, it's gonna be way too sad to not be able to talk to Airi-tan anymore... SMH.”
+Frau: “Actually, while I love Airi-tan, I wanted to talk rotten business with Sister Centipede some more.”
+Kaito: “I'm not sure I know what you mean, but Sister Centipede's been MIA thanks to all these bugs.”
+Junna: “Ah, before I forget. Akiho-chan said we should hold a Christmas party.”
+Junna: “Um, with Airi-chan too.”
+Frau: “A Christmas party...?”
+Frau: “That's such a normie event! Go blow up!”
+Kaito: “When was she thinking?”
+Junna: “I-I'm not sure, but aren't Christmas parties normally held on the 24th or 25th?”
+Junna: “She said we should all prepare presents.”
+Frau: “Y-Yashio-senpai, hurry up and get Airi here.”
+Frau: “Ask her what she wants for Christmas.”
+Kaito: “Is there even a point in asking?”
+She's supposed to disappear the moment it becomes the 24th, after all.
+But maybe that's all the more reason to ask...
+Either way, it wouldn't be right to say no, so I obediently call out Airi.
+Airi: “A Christmas present?”
+Airi: “Hmm?”
+Frau: “If you want thin-books, I-I have lots. You can have as many as you want.”
+Frau: “I'm down for any fetish. 2ez.”
+Kaito: “Kona-chan, quit it.”
+Airi: “I want snow.”
+Airi: “It sure would be nice if it snowed on Christmas Eve♪”
+Frau: “What... did you say...?”
+Kaito: “Snow again?”
+Junna: “We can't do anything about the weather...”
+Kaito: “Airi-chan, why are you so fixated on snow? I mean, you only just recently started talking about it.”
+Airi: “You're wrong. I've always longed for snow.”
+Airi: “Almost every year since I was told I had an incurable illness.”
+Airi: “I always hoped and hoped for snow on Christmas Eve.”
+Frau: “...”
+Kaito: “Airi-chan?”
+This is weird.
+I know I'm wrong about this.
+But Airi felt really human just now.
+That smile was too human.
+Making a lonesome smile requires a complex mix of emotions. There's no way an AI program could express that.
+And what does she mean by “incurable illness” and “every year”?
+Did her creator really give her such a meaningless background story?

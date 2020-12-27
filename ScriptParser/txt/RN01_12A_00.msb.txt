@@ -1,0 +1,139 @@
+The Robot Clinic is southbound on Interstate 58, just after the intersection entering Minamitane.
+Akiho often drags me here since it's on the way back home from school. Its convenient location is a real pain in the neck for me.
+Kaito: “I feel like we're in a horror movie every time we come here.”
+The gaudy neon sign forces itself into my line of sight like it's battling the setting sun. The sign's overwhelming presence makes me want to enter the store even less.
+Even with summer right around the corner, it feels a bit chilly around here.
+The clinic occupies a single-story building. All of the windows are covered in plywood, so you can't see inside.
+Behind the building is a large pile of scrap tossed carelessly behind a fence. Feels like something might burst out of that mess.
+Akiho: “It sure would be nice if this place looked more like a research lab or something.”
+Akiho watches too much mecha anime.
+I'd rather wait outside since it's a pain, but as always, Akiho pushes my back and forces me inside.
+Inside, western music echoes throughout the store at a ridiculously high volume. Rock music, to be specific.
+This feels more like a nightclub or some kind of concert venue.
+It's always like this here, which explains why nobody ever comes by.
+As for the choice in music, rock is just the owner's thing.
+The inside of the store is dusty, dark, and messy. Scrap is all over the place, and it feel likes the owner has zero intention of ever tidying any of it up.
+???: “...”
+I suddenly notice that the man of the hour had exited the back room and is now sitting at the counter in silence.
+This old man is the Robot Clinic's owner and self-proclaimed Robot Doctor, Fujita Tetsuharu. He's an incredibly stubborn, terrifying old man.
+Akiho: “HEEELLLOOO! DOOOCCC!”
+Fujita: “...”
+Akiho: “TURN! DOWN! THE! MUSIC!”
+Fujita: “...”
+The old man scowls, seemingly unaware of what's going on.
+Akiho resorts to making weird body gestures in order to get him to lower the volume.
+The old man clicks his tongue and finally drops the volume down.
+This is how it always goes.
+By this point, Akiho is usually pretty exhausted.
+I stand by the door and watch without saying anything.
+Akiho: “Hello, Doc...”
+Fujita: “I gave you parts the other day. I've got nothing else to give you.”
+Fujita: “And you over there. What's the deal droppin' in after all this time without so much as a greeting?”
+He's glaring at me... He really is terrifying...
+Kaito: “Long time no see.”
+Fujita: “Thought you'd be dead in the streets by now.”
+Kaito: “Unfortunately, I'm still very much alive.”
+So this is rock and roll... I think?
+Akiho: “Hey Doc, I didn't come on GunBuild-1 business today.”
+Doc is familiar with the Prez's history as a ROBO-ONE champ and Misa-nee's brainchild.
+Akiho: “We're currently overhauling it, but there's a part I need to replace.”
+Fujita: “Show it to me already.”
+Akiho takes the disassembled parts out of her bag.
+Akiho: “It's the battery and the charger. I need the exact same model, if possible.”
+Just as we joked about earlier, the reason the Honorary Prez can't move is because of the old battery.
+If we can replace those, it should move at the very least.
+As for how well it'll move, Akiho says that will depend entirely on the maintenance of the other parts.
+Fujita: “A Qyosho battery, eh? And it's an S-plug type. Those've been out of production for a while now.”
+Fujita: “Qyosho battery sizes these days are different compared to the ones from seven years ago.”
+Fujita: “You'll never find an exact replacement for this.”
+Akiho: “Huh? Then what should I do...?”
+Fujita: “Hmph, let's see...”
+Fujita: “You can switch out the plugs to make it compatible. The size has gotten smaller, so it won't be a problem installing it.”
+Akiho: “R-Replace the plug... Was that even in the manual...? Plus, I-I'm not that good with my hands, and...”
+Fujita: “Damn useless little girl. Changing plugs ain't no big deal. It's a wonder how you manage to survive as yer club's president.”
+Fujita: “If you can't do that, we'll have to swap manufacturers. For S-plug types, the Ogawadas are your cheapest option.”
+Akiho: “Th-Then I'll go with that.”
+Fujita: “It'll take about three days to get here. You all right with that?”
+Akiho: “Wh-What about the price...?”
+Fujita: “Including the charger, the cheapest model will run you about 8,000 yen.”
+Akiho: “That's way too much! Are you sure that's not for a brand new one?!”
+Fujita: “This store specializes in used parts. Listen to yourself. It'd be double this if it was new.”
+Fujita: “That's with shipping fees waived, so if you wanna complain, wait till you know your stuff, damn Robotics Club.”
+Akiho: “C'mon, don't be like that...”
+Fujita: “Anythin' else?”
+Akiho: “U-Uh, I was thinking of replacing the sensors, you know...”
+Fujita: “Smart choice. Tech changes a whole lot in a decade.”
+Akiho: “Mhm. So I wanted to go with an omnidirectional camera.”
+Fujita: “That ain't no sensor. Don't tell me you don't even know the difference between a sensor and a camera.”
+Akiho: “No, I was just thinking of combining an omnidirectional camera with a proximity sensor, like, something kinda high tech.”
+Fujita: “If you put that in a ROBO-ONE robot, it'll be a useless decoration. Don't you have a damn clue about how to read the room, you damned fool?”
+Fujita: “Besides, how much do you think omnidirectional cameras cost? 50K won't even cut it, you broke-ass kid.”
+Akiho: “Ugh...”
+Akiho's eyes tear up as her shoulders droop.
+The doctor is as relentless as ever, even against a young girl.
+To be honest, that's what I like about him.
+I myself am relentless when it comes to matches.
+Akiho: “Then tell me, Doc. What's the most important sensor to have for someone competing in ROBO-ONE?”
+Fujita: “A gyro sensor, I suppose.”
+Akiho: “But if I replace the gyro sensor, wouldn't I need to rewrite the program from the beginning?”
+Fujita: “How should I know? If you don't even know how to code, then quit tryin' to build hobby robots.”
+Akiho: “I mean, if I put the time into it I could, but our schedule is pretty tight right now...”
+Akiho: “By the way, how much do gyro sensors generally cost?”
+Fujita: “I recommend this one.”
+The doctor squats down behind the counter and pulls out a part from the lower shelf.
+Fujita: “It's a new, triple-axis gyro sensor made by the Hong Kong company Devices Hero. I guarantee its performance.”
+Fujita: “I'm willin' to part with it for 4,000 yen.”
+Akiho: “Gimme a discount!”
+Fujita: “Don't act like a spoiled brat! This price is final.”
+Fujita: “I told you before. I'm a pro. The prices I stick on my products are proof of that.”
+Fujita: “If you're fine with that, buy away. If not, get the hell out.”
+Akiho: “What a rip-off...”
+Fujita: “Then that's that.”
+Akiho: “Wah, wait, wait!”
+Now then, what's Akiho's next move?
+I checked before we left the school. Akiho has 721 yen, and I have 590 yen, so even if we pooled it all together, we can't afford anything.
+Akiho: “...Okay, then for now, could you order the Ogawada battery and charger, please?”
+Akiho: “And... I hate to ask you this, but can I pay you later?”
+Fujita: “If you ain't payin', you ain't gettin' anything.”
+Part of his job as a pro at the Clinic is to check each part he's procured, and if needed, restore it and make adjustments.
+Doc mostly handles used items, so he takes this work seriously. That's what he means by “a pro's work.” He also doesn't charge for the maintenance, which is pretty cool.
+At least, that's what Akiho tells me.
+Fujita: “Get your ass back here in three days.”
+Akiho: “I'll try my best!”
+Akiho gives him a wishy-washy reply, bows her head deeply, and exits the store.
+Akiho: “Well then.”
+She stretches out, finally liberated from Doc's overwhelming aura, and even starts doing squats.
+Kaito: “What's the plan for the money?”
+Akiho: “W-We'll figure it out.”
+Kaito: “We'll figure it out, eh?”
+Akiho: “Hey Kai, how many months' worth of allowance can you receive in advance?”
+Kaito: “You're trying to use my allowance too?”
+Akiho: “You're a member of the Robotics Club too, Kai.”
+Kaito: “Didn't Doc just tell you not to act spoiled?”
+Kaito: “If you insist on me making a contribution to your robot fund, you know what to do, right?”
+I flaunt my PokeCom at her.
+Kaito: “Fight me. If you win, I'll do what you say.”
+Akiho: “Ugh. Kai, you're such a hassle...!”
+Kaito: “That's my policy.”
+Akiho: “Fine. I'll do it.”
+She's challenged me two days in a row. That's pretty bold for Akiho.
+She must really be backed into a corner.
+Kaito: “Right on. Then let's begin. I won't pull any punches.”
+Kaito: “Kill-Ballad, start.”
+Kaito: “Doc sure is scary.”
+Akiho: “Really? I think he's a pretty nice guy when you actually sit down to talk to him.”
+Kaito: “Even though he calls you ‘idiot’ and ‘stupid’ and whatnot?”
+Akiho: “Well... that does kinda suck.”
+Akiho: “Not as sucky as you beating me in Kill-Ballad, though!”
+Kaito: “True, but it's not like I care about how you feel there anyway.”
+Akiho: “Urrrggh, you big jerk!”
+Kaito: “Don't mess with my hair after we're done here just because you're upset.”
+Kaito: “You got a long way to go, Aki-chan.”
+Akiho: “Geez... Why're you so strong?”
+Kaito: “I mean, I play this every day.”
+We've already spent way too much time hanging out in front of the store.
+As the sun begins to set, the gaudy neon sign begins to stand out even more.
+Akiho: “Let's get home before it really gets dark out. I'm starving.”
+Kaito: “Roger that.”
+Akiho ended up giving up on beating me for the day.
+By the by, Akiho managed to ruffle up my hair before I could put my helmet on.

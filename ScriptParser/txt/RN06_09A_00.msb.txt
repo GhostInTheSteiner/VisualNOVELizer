@@ -1,0 +1,63 @@
+Unfortunately, the robot I needed, Gojiro-kun, wasn't self-propelled. It was a yellow robot mounted firmly to a pedestal.
+Its primary function is to apply stamps.
+We had to remove it as a candidate for repair due to the frustrating reason that he'd be too difficult to carry outside.
+In its place, we chose...
+Yoshiro-kun.
+Since the name plate only has Yoshiro's name written in Roman letters, I have no clue what the kanji are.
+Akiho: “Quite the handsome man, huh?”
+Kaito: “I'm beginning to doubt your aesthetic sense, Aki-chan.”
+Yoshiro-kun has a blue body, and it's designed to stand upright.
+Due to the wheels installed underneath its feet, everything below the ankles looks oddly gigantic, including the shoes.
+It's about two meters tall.
+The arms are very thick, but I'm pretty sure the only parts that move are the shoulder joints.
+On the other hand, it's possible that his arms are just for decoration, just like the Robotics Club's beloved Model-1.
+In the center of the chest is a patrol light, a callback to the hero that can only fight for three minutes before vanishing. Would it light up after three minutes passed?
+The facial design is similar to the other eight robots, but each one has a slightly different expression.
+Yoshiro-kun's wears a bright smile with a wide open mouth.
+The eyes are large and bulge outward. Upon taking a closer look, the left eye's transparent cover was cracked.
+It has a protruding triangular nose.
+Patrol lights for ears.
+And a horn resembling an antenna.
+In the center of its eyes are miniature light bulbs with reflective mirrors—like the ones you'd find in a flashlight.
+Inside the mouth were several LED lights lined up inside a transparent, plastic case.
+The ears are made of yellow patrol lights.
+This thing must be pretty lively when everything's up and running.
+But I could see how it'd be creepy if it suddenly burst to life in the dark.
+Kaito: “So, think we can fix it?”
+Akiho: “I dunno...”
+Akiho peers inside Yoshiro-kun's back.
+There's a bunch of cords haphazardly jammed in there.
+Akiho: “His cords have been cut, just like the others.”
+Akiho: “But I don't see any other critical damage outside of that.”
+Akiho: “Ah, the reason why his eye's cracked and he's a little dented is most likely because he fell over.”
+Akiho: “So, as long as we rewire him, I think he'll be able to move again.”
+Akiho: “But there are a whole lot of cords in here... They're all soldered on, so replacing them with new ones'll be a huge undertaking.”
+Kaito: “Best of luck to you, Aki-chan.”
+Akiho: “You're helping too, Kai! Jun's up next after that.”
+Speaking of Junna, she somehow managed to vanish before either of us could notice.
+We had her looking for any documents that would help us identify the robots' names, but her and her scooter are nowhere to be found.
+It must have been really painful to come here.
+Or could it be that seeing the robots is far worse?
+Either way, was it all right for her to have left the shop keys with us?
+Akiho: “Oh, here's an idea! If possible, we might as well make it remote controlled.”
+Kaito: “Whoa, whoa. You mean you want to modify it? I don't think Doc'd be real happy if you messed with it too much.”
+Akiho: “We'll provide an options menu!”
+Akiho: “It can be autonomous for the most part, but we'll also be able to switch it to an RC mode.”
+Kaito: “Is that easy to do?”
+Akiho: “Erm... Probably?”
+Akiho: “It'll at least be much more painless than installing the Kill-Ballad control system!”
+Akiho: “Moving forward, backward, turning, hand movements, lighting up the eyes and ears, and talking. We should be able to use an RC vehicle transmitter.”
+Akiho: “The programming is fairly straightforward as well, so we shouldn't have to rely on Frau Bow either.”
+Kaito: “Well, would you look at that. It's rare for you to be so reliable.”
+Akiho: “Well excuuuuse me, Kai. I am the president of the Robotics Club, I'll have you know.”
+Akiho: “And I'm the genius that modified TanegashiMachine 3, too!”
+Akiho: “I picked up the basics from the older members over the last two years...”
+Akiho: “...So I should be able to deal with a machine this simple... I think.”
+Oh, boy.
+Kaito: “Well, I'll leave Yoshiro-kun to you, then.”
+Kaito: “And uh... could you fix up Gojiro-kun too while you're at it?”
+Akiho: “Instead of Gojiro-kun, could we fix up someone else? Preferably someone self-propelled? What about Hidesaburo-kun? He's on wheels.”
+Kaito: “...”
+Akiho: “Why are you so attached to Gojiro-kun?”
+Kaito: “That's, uh... It's, um... Isn't it obvious...? It's because Gojiro-kun is the coolest robot of them all! Duh!”
+Man... I'm going to have to get the thing up and running all by myself, aren't I...

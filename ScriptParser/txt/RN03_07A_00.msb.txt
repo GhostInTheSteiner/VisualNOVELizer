@@ -1,0 +1,461 @@
+Kaito: “Wow. Look at this button-masher. They're not even TRYING to get any reads. I can't respect super low-level play like this.”
+Junna: “What're you doing, Yashio-kun?”
+Junna suddenly pops into frame and takes a peek at my PokeCom screen.
+Her cheeks are a little damp, probably from exercising.
+I face the screen toward her.
+Junna: “Oh, a game...”
+Kaito: “And you? What were you up to?”
+Junna: “Just practicing a kata. I know I'm supposed to have retired, but...”
+Junna: “I've been practicing every day since I was a kid... so I have to do it at least once a day, or else I get anxious.”
+Kaito: “I'm guessing Aki-chan hasn't given you anything to do?”
+Junna: “Oh, no, not exactly... um...”
+Junna: “You know that anime, Gunvarrel...? She told me to watch all of it...”
+Junna: “And I did watch some today...! But, um, I'm bad at just sitting still and watching things...”
+So, she got bored watching anime and decided to practice her kata on the edge of the runway so Akiho wouldn't see her.
+Kaito: “Honestly, just watch it at your own pace. It's what I do.”
+Junna: “Uh, yeah. To tell you the truth, I was watching while...”
+Junna mischievously explains in a bashful tone.
+Since the data is stored in the cloud, as long as you have a connection, you can watch anime anytime on the PokeCom.
+Even when you're hanging out on the edge of an abandoned airport runway.
+Junna: “Um, can you please keep this a s-secret from Akiho-chan?”
+Kaito: “Yeah, of course.”
+Upon hearing my reply, Junna seems relieved.
+Junna: “You're always playing games, Yashio-kun...”
+Junna: “Don't you get tired of it?”
+Kaito: “Do you get tired of karate?”
+Junna: “Uh, umm, karate isn't really something I can get tired of...”
+Kaito: “Right? It's the same for me.”
+Junna: “Oh... I see...”
+Junna: “All right, I think I get it.”
+Subaru: “Senpai!”
+Subaru calls for me from the hangar.
+Is he done with the adjustments?
+I was kinda hoping to get some more KB time in.
+I rise to my feet and let out a sigh.
+As soon as I get back to the hangar, Subaru grabs my PokeCom, connects it to M45, and begins to fiddle with it.
+Subaru: “The KB System has been updated. I've registered your PokeCom with M45, so it should work now.”
+I boot up “KILL-BALLAD SYSTEM 2019” from my PokeCom.
+Subaru: “The adjustments are nearly complete. Everything else'll be according to your preferences, so let's address the more minute settings.”
+The control scheme is pretty much the exact same as the Honorary Prez's. That is, except for a couple upgrades.
+Commands for some unique actions have been added, which means there are about 1.5 times more commands than there were.
+Even then, there's only about 20 moves in all, so it's still less than a KB moveset. Remembering them'll be a cinch.
+Subaru: “Please try moving it around.”
+Akiho: “What about the pile bunker?! I wanna see the pile bunker!”
+The president is acting she's our live studio audience or something.
+Subaru: “According to the command list, let's see...”
+Kaito: “It's the same as the Accel Impact, right?”
+Frau had sent the command list to me earlier, so I'm already familiar with it.
+I swiftly input the command.
+Junna: “Whoa... It, uh... well... really moves a lot!”
+Akiho: “Man, that pile bunker gets me right in the soul!”
+Akiho: “You're real full of yourself sometimess, but I gotta give you credit for the pile bunker.”
+Subaru: “I was under the impression that you preferred swords and hammers, Prez.”
+Akiho: “Whoa, whoa, you wanna get into super robots versus real robots? We can if you want to.”
+Subaru: “No. Besides, the difference between the two is still unclea—”
+Kaito: “Would you mind taking this unproductive debate somewhere else?”
+Akiho: “But Subaru...”
+Subaru: “I believe you're the one that started it, Prez.”
+Akiho: “Grr...”
+I ignore the two and input the pile bunker command one more time.
+I then cancel the action during its “animation” time and activate the other arm's pile bunker.
+Kaito: “It's pretty smooth. Great response, even via wireless connection. I can cancel commands without issue.”
+Subaru: “I'm impressed as well. Who would've thought Furugoori could write a program of this quality in just a few days?”
+I try executing the same command multiple times, switching up the timing for each attempt.
+Kaito: “The input window might be a little too long.”
+But that's really due to the fact that M45 is sluggish.
+Next, I make it walk.
+Junna: “Oh, it's walking.”
+Akiho: “Our TanegashiMachine 3 is way faster at walking.”
+Junna: “Oh, r-really? Wow...”
+Akiho: “It's nothin' much♪”
+She acts all proud, despite the fact that she's not the one who built it.
+Besides, both robots were built with completely different goals in mind. Prez was made for mobility, M45 for power.
+Subaru: “There's a dedicated command for M45's unique hip-spin maneuver. The range of motion is about 330 degrees.”
+Apparently, since I can accurately control which way it twists and to what extent, I can really push it to the extreme.
+Subaru: “You can select the angle in 30-degree increments. This is a feature that has been in place since before the KB System was installed.”
+Kaito: “I take it you can't rotate 360 degrees?”
+Subaru: “Of course not. That'll tangle up the motor cables.”
+He spits out his words as if the mere concept of me being new at this offended him.
+Kaito: “If it gets tangled up at 360 degrees, wouldn't it still happen at 330 degrees?”
+Subaru: “Hmph. Not at all.”
+Subaru: “The issue is that if you allow it to turn 360 degrees, it'll be able to turn 720 degrees as well.”
+Aaah, that makes sense.
+If it can do it once, it can do it twice or more. Keep twisting like that and the cables'll get tangled.
+So that's why he stopped it at 330 degrees. To prevent it from doing a full rotation.
+Kaito: “Understand.”
+Akiho: “Hm? What does he mean?”
+We can just ignore the straggler for now.
+I try executing a series of basic punches, kicks, steps, and reversals.
+Even after getting familiar with the robot's capabilities, its sluggishness still feels awkward to me.
+It's like I'm in the middle of a Slo-mo attack.
+Kaito: “Is there anything we can do about its sluggishness?”
+Subaru: “Furugoori's program looks like it was designed for a faster machine, but that'd burn out the motors.”
+Subaru: “It's an issue with the durability of the gears. We can't do much about that, so you'll have to get used to it.”
+I'm sure I will after some practice.
+But personally, I'm way better with agile characters than I am with grapplers.
+See, my reaction speed is higher than the average person.
+I can capitalize on that talent of mine with an agile-type character.
+Akiho: “Hey, I've got an idea! Why don't we have a sparring match against TanegashiMachine 3?”
+Kaito: “You mean a match using actual rules?”
+Akiho: “Yeah! Jun'll operate TanegashiMachine 3.”
+Junna: “Wait, me?”
+Junna's flustered by the sudden call to arms.
+Akiho: “I think it's best for her to try operating a robot so she can learn what the Robotics Club is all about.”
+Akiho: “TanegashiMachine 3 is super easy to control. Give it a shot!”
+Junna: “Uh, um...”
+Kaito: “I don't think she should.”
+Junna: “Oh, uh...”
+Junna: “Um, I agree with Yashio-kun, I think. An amateur like me will only hold everyone back...”
+Akiho: “Whaaat...? Why not, Kai?”
+Akiho: “Wait, could it be that you don't want someone else taking your super-important job?”
+Akiho: “I never realized you were so proud of your work. I'm so happy...!”
+Kaito: “Yeah, that's not it.”
+Kaito: “I don't hold back, not even against beginners. That's my rule. You know this better than anyone, Aki-chan.”
+Kaito: “If Jun-chan gets completely demolished her first time, she might end up hating robots even more.”
+Kaito: “In terms of skill level, you'd be a better fit for her debut match, Aki-chan.”
+Kaito: “But if you insist on challenging the fifth-best player in the world, I won't back down.”
+Akiho: “Kai... I know you're concerned and all, but do you have to be so unbelievably condescending about it...?”
+Junna: “Ahah... Um, I'll p-pass for now.”
+Junna looks like she wants nothing to do with this.
+Akiho: “Fine, then I'll be your opponent!”
+Akiho: “By the way, if I win, you owe me a favor.”
+Kaito: “Hoh, so you mean you want to have a serious match? Sure, I'm game.”
+No matter how big the difference in specs is, I know I'll never lose to Akiho. I know her habits better than she does.
+Kaito: “Are you okay with that, Subaru-kun?”
+Subaru: “I have no objections. She'll be the perfect opponent for you to get used to the machine.”
+Akiho: “Hey now! My skills aside, let's not forget that TanegashiMachine 3 is a ROBO-ONE champ!”
+Subaru: “10 years ago, yes.”
+Akiho: “He also placed second!”
+Subaru: “Losing to M45.”
+Akiho: “Alcyone, Electra—”
+Subaru: “What awe you shaying awl of a sudden?!”
+Junna: “Uh, um, please don't fight...”
+Kaito: “Enough fooling around, Aki-chan. Hurry up and bring TanegashiMachine 3 over here.”
+Akiho: “Fiiine...”
+Akiho pouts and enters the hangar.
+Akiho: “All right, are you ready?”
+Akiho and I are in position, facing one another.
+Each of us is holding a PokeCom.
+Mirroring us, M45 and Prez are standing across from each other as well, motionless.
+Kaito: “You're amazing, Aki-chan. I really do admire you.”
+Akiho: “Why's that?”
+Kaito: “You constantly get your butt whooped by yours truly, yet you never lose that confident look on your face.”
+Subaru: “Perhaps she just has nothing going on in that hollow brain of hers?”
+Akiho: “My brain is full of stuff! I re-watched the ROBO-ONE grand finals like 10 times already!”
+Akiho: “I've analyzed M45 through and through.”
+Kaito: “Enough with the banter. Let's get this party started.”
+Akiho: “Nn, hey, you're the one who started trash talking me!”
+Even though this is just a practice match, we've established some rules.
+Whoever knocks their opponent down three times will be declared the winner.
+That said, there are no ring outs because we have no ring.
+For me, this is just a match to break in M45 with, but for Akiho, this is the real deal.
+Kaito: “All right, let's do this.”
+With little fanfare, I begin to march M45 forward.
+Akiho: “Come at me!”
+The Honorary Prez suddenly starts to change forms.
+Akiho: “You fell for it! Storm and surge! Blast of spirit!”
+Akiho: “Tanegashi Accel Impact!”
+Kaito: “Aki-chan, you just wanted an excuse to shout that out, didn't you...”
+It's way too easy to dodge a tackle at this range.
+Besides, once the Tanegashi Accel Impact has been activated, it can't be turned off.
+Akiho: “Hey, that's cheap! You're not supposed to dodge it!”
+Akiho: “Jun! Stop him! Grab him...!”
+Junna: “Oh, uhh, what?!”
+Akiho: “Run after him!”
+As the Honorary Prez zooms further and further away, Junna finds herself chasing after it in a panic.
+Kaito: “C'mon, Aki-chan. Take this seriously.”
+Akiho: “Hehe, I really wanted to win, and then something like that happened...”
+Subaru: “Are you aware of the purpose of this match? This is strictly so Yashio-senpai can get used to operating M45.”
+Akiho: “I-I know...”
+Junna: “Whew... I got it.”
+Despite running pretty far, Junna doesn't seem the least bit out of breath. At least she's in good shape.
+That said, she's holding the robot in the most timid and nervous way possible.
+Junna: “Easy, eeaasy...”
+She's also way too cautious about how she's setting it down.
+She's even talking to herself.
+Akiho: “You've got some fast legs, Jun, but I guess that's the Karate Club for you. You might be the fastest out of all of us!”
+Junna: “Er, I don't know about that.”
+Akiho: “What's your time on the 50-meter dash?”
+Junna: “8.2 seconds, I think?”
+Akiho: “What about Kai and Subaru?”
+Kaito: “9.5.”
+Subaru: “8.9.”
+Akiho: “Wow, you're wicked slow, Subaru!”
+Subaru: “And what time did you receive, Prez?”
+Akiho: “Wh-Who cares about my time...?”
+I know for a fact that it's an awful 14 seconds flat, but I remain silent.
+To be fair, the both of us can't exactly sprint due to our medical condition.
+There's not much we can do about our speed.
+Akiho: “From now on, whenever we use the Tanegashi Accel Impact, we'll have Jun run after it.”
+Junna: “Huh...?”
+Akiho: “Anyway, let's get this party restarted, Kai!”
+Kaito: “Can you take it a little more seriously this time?”
+Akiho: “You bet I will!”
+The Honorary Prez, now back in its original form, slowly inches forward, shaking all the while.
+The asphalt is pretty bumpy, so it might be difficult for it to maintain its balance.
+Kaito: “Are you sure you wanna come at me head on like that?”
+Akiho: “Speed is power!”
+I guess I'll practice some of M45's throws.
+To master a grappler, one must first understand its range. If you can't get that down, you'll drown in pools forever.
+The M45, of course, is equipped with several different command grabs.
+Not only does it have long and short range throws, it can also throw from upper, mid, or lower-body positions.
+This helps expand the amount of strategic options the operator has. It also solves the issue of different enemy sizes.
+Frau really knows her stuff.
+Too bad about that personality of hers.
+To try and get a feel for M45's range, I try inputting a lower-body command grab from a distance.
+M45 leans forward slightly and stretches its arms out to grab the Honorary Prez's legs.
+But as expected, it whiffs completely.
+Swing and a miss.
+The Prez is still way out of range.
+But now I pretty much have the range down for the long-range throw.
+Akiho: “Haha, you miiiissed!”
+Kaito: “Aki-chan, if you've got time to trash talk, you've got time to attack.”
+Akiho: “Grr... You don't have to tell me! Go, TanegashiMachine 3 Custom!”
+But by the time the Prez starts moving forward again, I've already recovered back into my neutral position.
+The Honorary Prez approaches me completely unguarded.
+Akiho: “Um, the command... the command...”
+Akiho's struggling with the command input process.
+What's the point of even having the KB system installed if she's like this?
+She finally executes a command and attacks with a close-range lariat, but I counter with a mid-body throw. 
+M45 grabs both of Honorary Prez's arms, leans against him, and knocks him down.
+Akiho: “Aww...”
+Prez gets smashed underneath.
+Kaito: “That's one point for me.”
+Akiho: “Urrghh...”
+Subaru pulls apart the tangled robots and stands them up again.
+Kaito: “It's funny. When we fought at ROBO-ONE, this little guy's grab range felt massive.”
+Kaito: “But now that I'm at the controls, that's really not the case.”
+Subaru: “That's because you fell for my trap way too easily.”
+Subaru: “When I fight with M45, I always spread its arms out as a taunt. This helps me fool my opponent.”
+Subaru: “Its arms are long compared to standard heavy-weight units. This makes them appear even longer than they are.”
+That's what that taunt was about.
+Kaito: “In that case, should I work that into my strat, too?”
+Subaru: “Please do. There's a dedicated command for it.”
+Kaito: “Oh, the taunt command? So that's what that's for...”
+This guy's thought of everything.
+Let's give this a shot.
+Once the command goes through, M45 spreads its arms out, its body rocking gently.
+Akiho: “I got you now!”
+After circling around to M45's side, Prez enters its range.
+How dare she try to attack while I'm testing out a taunt?
+Still, not a bad strat.
+Kaito: “That's playing dirty, Aki-chan. So much for building a giant robot of justice.”
+Akiho: “You think nobody ever attacks during a transformation sequence? Taboos are meant to be broken!”
+Akiho: “Take thiiis! Tanegashi Upper!”
+Prez's arm starts shooting up from under M45.
+Thanks to the end lag from the earlier taunt, I can't dodge.
+Instead, I twist M45's body 90 degrees and face its back to the Prez.
+I then smoothly transition into using the pile bunker.
+M45, on the verge of toppling over from the uppercut, still manages to use its pile bunker.
+Akiho: “Wha?”
+The tip strikes the asphalt.
+The recoil from the pile bunker manages to push M45 back up.
+It then makes contact with the Prez, serving as a headbutt.
+Both robots topple down with M45 on top.
+Akiho: “Wh-What the heck was that?!”
+Junna: “What a weird move...”
+Kaito: “That's another point for me.”
+In ROBO-ONE rules, that's a knockdown.
+Subaru: “A fascinating use of the pile bunker. Did you come up with that yourself, Yashio-senpai?”
+Kaito: “Yeah, I guess.”
+I wouldn't have been able to come up with it in eight frames, though.
+Kaito: “It's all about reading your opponent.”
+Kaito: “If I had read Aki-chan's uppercut incorrectly, that all would've been for nothing.”
+Kaito: “I got lucky.”
+Akiho: “Grrrrrr...”
+Junna stands both robots up for us while giving the frustrated Akiho a strained smile.
+Subaru: “It's impressive how well you've mastered controlling M45 in such a small amount of time.”
+What's this? Subaru's actually complimenting me?
+What's gotten into him?
+Subaru: “If nothing else, your skills at video games are top-class, Yashio-senpai.”
+...Is that supposed to be a compliment?
+Subaru: “If you only had a little more passion for robots, the Robotics Club wouldn't be as rotten to the core as it is now.”
+Kaito: “Well, I'll never be the best when it comes to making robots or watching mecha anime, so I've got no chance there.”
+Kaito: “That's why I'm not interested.”
+Kaito: “I wanna reach the top using my own skills. And there just so happens to be KB players I want to beat.”
+Kaito: “Those are my principles. Surprisingly easy to understand, right?”
+Kaito: “Of course, if I'm gonna enter ROBO-ONE, I'm gonna aim for the top spot. I can take it with my own skills.”
+Subaru: “I was right to ask you to be my operator. I don't quite understand your logic, but I do respect—”
+Subaru's words stop abruptly.
+He's looking past me, right over my shoulders.
+He looks like he's seen a ghost.
+Subaru: “Ah...!”
+I turn around to find a man I've never seen before standing by the abandoned terminal.
+What a rugged old man.
+In contrast, his clothes are awfully gaudy.
+He's taking large steps as he walks toward us.
+It's as if his whole body is exuding this incredibly unnatural aura.
+This dude's definitely pissed, though I have no clue as to why.
+He looks like the type of person who would punch you in the face if you said anything at all to him.
+That's the kind of stubborn, old-fashioned look that he's wearing.
+Kaito: “Who's that?”
+I glance over at Akiho, but she just shakes her head in confusion.
+Daitoku-san looks just as dumbfounded.
+I guess nobody knows him.
+Well, aside from one exception... There's one club member who's trembling violently and uncontrollably. Subaru.
+He steps back once, then twice. He looks like he's about to run away at any moment
+As a result, his foot gets caught on the Honorary Prez, who just happens to be standing on the ground.
+Subaru: “Wh-Why...?”
+Akiho: “Subaru? Do you know that guy?”
+???: “Subaru.”
+The old man is now so close that we can hear his voice. He calls out to Subaru.
+I guess they do know each other.
+Subaru, on the other hand...
+Subaru: “...”
+He suddenly stops shaking, hangs his head low, and freezes, crestfallen. There's nothing but despair on his face.
+The older man completely ignores us and stops right in front of Subaru.
+Subaru keeps his face lowered.
+Maybe he's scared of making eye contact.
+I have a hunch this guy is Subaru's old man, but I don't intend on trying to confirm that for myself.
+Me, Akiho, and Junna can't do anything but watch what's about to unfold from the sidelines.
+Hiromu: “What's the meaning of this?”
+Subaru: “...It's not what you think.”
+Hiromu: “Then what is it?”
+Subaru: “I...”
+Hiromu: “Then what is it?”
+Subaru: “...”
+Hiromu: “Don't just stand there. Say something!”
+Subaru: “...”
+Subaru: “I was playing with hobby robots...”
+The older man draws back one of his massive, thick arms...
+...And drives his fist deep into Subaru's cheek.
+Subaru: “Nngh!”
+Subaru's knocked to the ground with incredible force.
+Akiho: “Ah!”
+Junna: “...!”
+Whoa, whoa, he just punched him...
+Akiho: “U-Um...!”
+It's during this tense moment that Akiho dares to speak to the man.
+Akiho... don't do it. All you'll do is make things worse! This isn't being brave, it's being reckless!
+Akiho: “I don't think anything good can come from—”
+Subaru: “Prez, please stay out of this.”
+Akiho's reckless intervention is quickly cut off by Subaru's words.
+Subaru: “This has nothing to do with you.”
+Akiho: “B-But...”
+Subaru staggers to his feet. His lips are cut open, and a small trail of blood trickles from the wound.
+Hiromu: “You promised me that you'd never play with those toys ever again.”
+Hiromu: “And you broke that promise.”
+Subaru: “...Yes.”
+Hiromu: “Explain yourself.”
+Subaru: “...my... dream...”
+Hiromu: “Speak up!”
+Subaru: “I couldn't... give up on my dream...”
+Hiromu: “Dream?! You're in high school, yet you still talk about such childish bullshit?!”
+Akiho: “...”
+Judging by this conversation, that guy is definitely Subaru's old man.
+It's hard to believe that this rugged dude ripped straight from the late '40s and this snarky intellectual are related.
+So this is about Subaru playing with toys?
+Is this why Subaru was hiding his identity by disguising himself as Mr. Pleiades?
+Hiromu: “Do you understand why I'm upset, Subaru?”
+Subaru: “...”
+Hiromu: “I'm asking you a question.”
+Subaru: “Because I'm still playing with hobby—”
+Hiromu: “Because you went behind my back and broke your promise to me!”
+Hiromu: “You said it yourself! You said you'd throw away all your robots!”
+Hiromu: “You said that you'd follow in my footsteps as a fisherman!”
+Hiromu: “Was that promise a goddamn lie too?! Huh?!”
+Subaru: “It wasn't—”
+Hiromu: “Then what the hell is this?!”
+Hiromu: “How long have you been hiding this from me?!”
+Subaru: “...Two years.”
+Hiromu: “Two years?”
+Hiromu: “Two goddamn years?!”
+Hiromu: “You've been lying to your own father this whole damn time?!”
+Hiromu: “How dare you?!”
+Akiho: “Ah...!”
+It all happened so fast, there was no time to stop him.
+Subaru's father grabbed M45...
+And threw it at the ground as hard as he could.
+Subaru: “...!”
+The ROBO-ONE champion.
+The machine that Subaru worked so hard to build.
+The crumpled remains of M45 sat still on the ground, its arms and legs bent every which way.
+Hiromu: “This piece of shit...!”
+Subaru's father then tries to smash it one more time with his foot...
+Akiho: “Stop!”
+Akiho desperately grabs onto his leg.
+Akiho: “Please, just stop!”
+Oh, Akiho... You still can't read the room... Always acting reckless...
+Akiho: “He might look like a toy to you...”
+Akiho: “But he's alive! He's filled with all of Subaru's thoughts and feelings!”
+Akiho: “So please, don't destroy him...”
+Akiho: “It's just too sad... Please...”
+Akiho: “Hurting him means... sniff... hurting Subaru, too...”
+Akiho...
+Subaru: “Prez, please... don't get involved...”
+Akiho: “...!”
+Subaru: “This... has nothing to do with you...”
+Akiho: “Subaru...”
+Hiromu: “When you get home, you're going to explain all of this to me. In detail.”
+Hiromu: “You will come home. Immediately.”
+He angrily swipes his leg out from Akiho's grasp, and storms away from the airport.
+Subaru: “...I'll be heading home now. As for M45... dispose of it at your convenience.”
+Akiho: “How can you say that?!”
+Subaru: “Please... That's enough. My dream... has reached its end.”
+Subaru: “Excuse me...”
+Subaru starts walking, his head still hanging low.
+He really intends on going home, just like that.
+Akiho: “Subaru!”
+After wiping away her tears with her wrist, Akiho calls out to him.
+Akiho: “You'll come back to the Robotics Club, right?”
+Subaru: “...”
+Akiho: “Right?”
+Subaru: “...”
+Subaru doesn't turn around or answer her. He just leaves.
+I can only imagine what kind of conversation is about to happen when he gets home.
+Subaru will probably just accept everything his father tells him.
+He looked like he knew it was all over once he was caught.
+Akiho: “I'm so sorry... I couldn't protect you...”
+Akiho sits down in front of M45.
+She gently caresses its damaged body with her fingers.
+Junna: “Uh, um, can we... fix it... maybe...?”
+Kaito: “Have you grown a bit attached to the robot too, Jun-chan?”
+Junna: “Well, uh, I don't really understand it completely yet, but...”
+Junna: “My dad once threw away a stuffed animal that I really treasured, and...”
+Junna: “I remember being really sad about it, so...”
+Junna: “I feel like... maybe this is kinda similar...”
+Akiho: “Yeah, I think so too...”
+Akiho: “Remember, Jun... Japanese people tend to see spirits in everyday objects.”
+Akiho: “I bet that's also related to why mecha anime has been popular in Japan for so long...”
+Junna: “I see...”
+Kaito: “That's definitely a popular belief, but you shouldn't assume that everyone feels that way.”
+Kaito: “We don't know how attached to M45 Subaru really was.”
+Akiho: “...”
+Kaito: “It'll be easy to fix. Just ask Doc for help and it'll be good as new in no time.”
+His sign does say “Robot Clinic” after all.
+Unlike humans, hobby robots can be fixed.
+But...
+Kaito: “Even if M45 is fixable, Subaru-kun may not be...”
+Junna: “Huh? What do you mean?”
+Kaito: “When your spirit is that broken, it can be really difficult to recover.”
+Junna: “Oh, right... Yeah... I know that all too well...”
+I bet Junna's thinking of her time in the Karate Club.
+For me, I never stopped playing games even after Misa-nee tore me to shreds endlessly when I was a kid.
+Akiho: “...”
+I glance at Akiho. She's crouched down with her hand pressed against her chest.
+Kaito: “Aki-chan, are you having an attack?”
+Akiho: “...”
+She doesn't answer.
+Junna: “A-Akiho-chan?!”
+Kaito: “Aah, don't worry, she'll be fine.”
+I help Akiho up by wrapping my arms around her shoulders.
+All the life has drained from her face. Her eyes are staring off into the distance.
+Her entire body is powerless. She's entirely at my mercy.
+I guess all this fuss took an emotional toll on her.
+I place her Fink toy into her hand, and she grabs onto it weakly.
+Junna: “Uh, um... uh...”
+Kaito: “Jun-chan, just take a deep breath and calm down.”
+Junna: “Oh, okay...”
+Junna does what she's told and takes two deep breaths.
+Kaito: “Anyway, Aki-chan'll be back to normal in about 30 minutes, so could you do us a solid and go buy us some drinks?”
+Kaito: “I'll pay you back later. Just grab a Skal and a Fruit Sour Melon. Make sure the Skal comes in a bottle.”
+Junna: “O-Okay.”
+Despite being on the verge of tears, Junna runs off to buy some drinks for us.
+Time to call Akiho's house and have her parents pick her up.
+I look down at M45, which is lying still on the ground.
+Guess I'll store it in the hangar after I send Akiho home...
+Subaru told us to toss it.
+But there's no way I can just throw it away like that.
+It's just...
+I guess going to the ROBO-ONE World Championships isn't happening anymore.
+With those thoughts running through my mind, I watch as the sun sets and the sky slowly turns purple.

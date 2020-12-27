@@ -1,0 +1,178 @@
+Even I'm getting amped up somehow.
+As per the usual, Harunaka-san operates the ceiling crane and pulls Model-2 to the center of the room.
+I'm on support duty for Junna, who is currently in charge of the laser gun.
+Junna holds the grip at the end of the gun and presses the irradiation button.
+At that point, the device still does nothing.
+Looks like the safety mechanism is working properly.
+Right next to us is a power generator about the size of a light motor vehicle running at full capacity.
+This outputs a large amount of energy.
+The merit of wireless electricity transmission is that this thing doesn't have to be loaded into the robot's body.
+Model-2 was built specifically to perform at the Expo, so the generator doesn't need to be able to move around.
+And so, while we end up having to use this annoying laser transmission system, the robot also loses a dramatic amount of weight.
+In regards to the laser gun...
+It has proper iron sights, much like a real gun.
+I tell Junna to aim down the sights and point the tip toward the parabolic antenna on Model-2.
+Junna moves it as told and aligns the iron sights with the antenna.
+A visible red laser beam immediately and silently fires out of the gun.
+Junna: “Wow... That's amazing...”
+Kaito: “If any of us touched that, our skin'd melt right off...”
+I'll definitely be keeping my distance.
+The beam hits the dish of the parabolic antenna and gathers in one place through the condensing lens.
+Frau: “Th-The battery has begun ch-ch-charging...”
+Frau: “It sh-should be able to move.”
+Akiho: “Subaru! Let GunBuild-2 down!”
+Subaru asks Harunaka-san to operate the crane, and Model-2's dangling feet are slowly lowered to the ground.
+Akiho: “All right, I'm turning GunBuild-2 on!”
+The most tense part of the test is here.
+The only person in our audience is Nae-san.
+The JAXA workers who advised us and Mr. Senomiya aren't here for some reason.
+We asked Doc to come, but he said he was busy developing some new equipment or something.
+Mitchie is asleep in the car parked outside, and Mr. Candy isn't here either.
+We didn't advertise this to the public, so nobody's here to watch this go down.
+Which means that right now, it's just the five Robotics Club members, Nae-san, and Harunaka-san on the crane. Seven people total.
+Akiho looks far more composed than she did during the Model-1 test.
+Junna, once terrified of robots, is firmly gripping the laser gun, holding her breath and watching Model-2 attentively.
+Even our resident shut-in Frau is present and accounted for.
+Despite the tough situation with his dad, Subaru is here nonetheless, albeit in secret.
+Four months have passed since summer came and went.
+The Robotics Club's finally grown a little.
+Subaru, Frau, and Junna.
+We freely made use of their strength... er, cooperated with them.
+The five of us—although I didn't really do anything—built this new giant robot and are trying to breathe life into it.
+Akiho shoves her hand into her skirt pocket and reverently pulls out a switch that fits in the palm of her hand.
+On the black rectangular box is a round red button. Nice and simple.
+Is that the activation switch for Model-2? We could've used cloud computing to manage the drive system.
+Not only would we have been able to control Model-2 from a PokeCom, we'd be able to turn the power on and off as well.
+However, after the incident in Tokyo with Roboratory Industry, Frau wanted to avoid that.
+That's the reason why the power switch is this clunky, unimpressive button.
+I have next to no idea how it works, though.
+But in terms of creating a sense of mystique, it might actually be just right.
+Akiho: “Nae-san, please make the final call.”
+Nae: “Okay! The activation test is a GO!”
+Nae-san seems really into this.
+After hearing her response, Akiho looks at me and nods firmly.
+Akiho: “GunBuild Project, Prototype Model-2, power on! Liftoff!”
+With her declaration, Akiho forcefully pushes the button in her hand.
+All of the motors in Model-2 begin creaking to life as the drive starts up.
+It kind of looks like a sleepy old man waking up and slowly standing up to attention.
+Although I suppose that's not just limited to old dudes.
+The 3D scanners on the robot's shoulders shoot narrow laser beams at the walls and floor.
+Kaito: “Can those lasers kill people?”
+Akiho: “Nah. They're just infrared lasers.”
+Frau: “Slender Gunvarrel has activated.”
+Frau: “OS, o-operating at normal capacity.”
+Frau: “Laser scanners, loading surrounding map data. S-S-Scan in progress.”
+Frau is apparently receiving telemetry data.
+She looks at her PokeCom and reads out the information.
+Frau: “B-Battery charge at 0.5%. If you stop sending power, Slender Gunvarrel will cease functioning immediately.”
+Junna: “Wait, doesn't that mean, um, this job is really important?!”
+Frau: “Karate-senpai, m-m-make sure you aim straight.”
+Junna: “O-Osu!”
+Frau: “H-However, all systems are green for the time being.”
+Frau: “C-Current control priority is with Yashio-senpai's PokeCom.”
+Akiho: “Woohoo! I'm getting hyped up! Blast of Spirit! Gunvarrel!”
+Kaito: “Aki-chan, you're getting too excited.”
+Subaru: “We're releasing the wires!”
+The wires connecting Model-2 to the ceiling crane all detach. The scaffolding is also moved away.
+As of right now, Model-2 is completely standing on its own.
+Not only that, it shows no signs of falling over, either.
+Akiho: “Things are going well! All right, Kai. It's time for the big, momentous first step!”
+Model-2's control priority rests with my PokeCom.
+Meaning only I can control it.
+I start up the Kill-Ballad System app.
+I'm asked to register the camera's neutral position.
+Frau: “F-First, register the camera's neutral position, pls.”
+Frau: “After doing that, the camera direction will sync with the PokeCom's built-in gyro controls.”
+I hold my PokeCom up to my face and register that as the neutral position.
+On the monitor, I see the inside walls of the building from a position eight meters off the ground.
+It's real-time footage from the omnidirectional camera on top of Model-2's head.
+Kaito: “Whoa. This feels way more like KB than TanegashiMachine did.”
+Frau: “Duhuhu. Of course.”
+Akiho: “If you move your PokeCom in any direction, the camera will move along with it.”
+I try it out and the scenery on screen moves accordingly. When I tilt it downward, I can see Akiho looking up.
+I also spot Junna gripping the laser gun, and both Frau and I fiddling with our PokeComs.
+Akiho: “That being said, it doesn't sync with GunBuild-2's face, of course.”
+The face is just decorative, after all. Plus, since it's an omnidirectional camera, there's no need to move it.
+Even I understand that.
+Kaito: “All right, should I take the first step?”
+Akiho: “Go ahead! Gunvarrel, launch!”
+I quickly input the “advance” command.
+It reacts immediately.
+Model-2's body shakes as its many motors activate, before it leans slightly to the left.
+It lifts its right foot up.
+Then, the right leg smoothly takes a step forward.
+The joints are in the ankle, knee, and groin. The servomotors in both legs work together perfectly, with the sound of gears turning together erupting forth.
+The right foot lands on the ground, and the left side returns to neutral in response. Just like that, its body is perfectly parallel again.
+Then, the body leans to the right.
+This time, the left foot rises up.
+It continues on and moves forward.
+It stops moving when both legs are side by side again.
+This series of motions is attached to the “Advance” command.
+It took a little over 10 seconds for Model-2 to walk two steps.
+Kaito: “...”
+The whole process was so smooth that it felt like something made by professionals.
+I think back on Model-1 six months ago and how much of a struggle it was for it to take a single step.
+Akiho: “So? Hey, Kai! Whaddya you think?”
+Kaito: “This is awesome...!”
+Kaito: “It's nothing like how slow Model-1 was!”
+Nae-san's cheeks are flushed in excitement as she claps her hands in fierce applause.
+Nae: “That was incredible! I'm deeply moved!”
+Nae: “The technical strength on display here is hardly what you'd expect from high schoolers. Every member of the Robotics Club is totally amazing!”
+Nae: “I knew I was right about you guys!”
+Nae: “Oh, and it's amazing watching it in person, but using ‘IRUO.’ really makes it feel like Gunvarrel is moving.”
+Nae: “We get two delicious flavors in one bite!”
+I'm not sure how you managed to describe this like it was food, but whatever.
+It's completely true that for everyone here in attendance, that first step had a huge effect on them.
+Looking up at the crane, Harunaka-san is giving Subaru a powerful handshake. Subaru's grinning wryly in pride.
+Subaru's usually calm and collected, but he was the center of Model-2's design.
+I'm guessing he must be super happy about this.
+Even I never could've predicted our little project would end up like this.
+This robot of ours might actually stand a chance at the Expo.
+I truly feel that way.
+Nae: “Um, there's just one thing...”
+Nae-san's expression suddenly darkens.
+She opens her mouth slowly, like it's hard to put her words together.
+Nae: “I know this is really sudden, but...”
+Nae: “By next week, we're going to have to have you all leave the building.”
+Akiho: “Huh?!”
+Whoa, hey now! This really IS sudden!
+Akiho: “What do you mean by that?!”
+Nae: “Remember how I said I was in an emergency meeting? I think the Chief will explain it in detail, but...”
+Nae: “It's been decided that we're gonna be launching a rocket from Tanegashima again. The first one in five years...”
+Akiho: “Whoa...!”
+Kaito: “Really?!”
+Talk about breaking news!
+I'd be lying if I said I wasn't excited.
+Maybe even more so than when Model-2 moved just now.
+I was convinced that the TNSC would never launch another rocket again.
+Nae: “Yeah. And the First Osaki Office is closest to the launch site, you know?”
+Nae: “Which means this whole area is off-limits during the launch.”
+Nae: “We have security to consider, and so we were told we wouldn't be able to lend you all this space anymore.”
+Nae: “I'm so, so sorry!”
+Nae-san bows her head deeply.
+Frau: “W-We were just about to enter the settings phase. This is the worst possible timing.”
+Junna: “...”
+Akiho: “Frau Bow, Jun! Why the long faces?”
+Akiho: “This is amazing news! We get to see a rocket launch on Tanegashima again!”
+Akiho: “I'm super hyped!”
+Akiho: “I bet Dad must feel the same way right about now. Hehe.”
+Akiho's speaking from the heart. She's not just trying to be strong right now.
+She's probably right about her dad, too. He stayed on as Chief, believing that this day would come. Akiho knew that.
+But Frau's right. The timing couldn't be any worse.
+If we had one more month, we wouldn't have to get kicked out.
+Kaito: “So, we absolutely have to be out of here within the week?”
+Nae: “Yeah...”
+Nae: “I tried to negotiate an extension, but they wouldn't even consider it...”
+Nae: “I'm still just a newbie, so I have no real sway in things. I'm so sorry.”
+Whenever the TNSC has a launch, the rockets usually arrive on the island months before the launch date.
+Simultaneously, JAXA and the manufacturers send engineers here to start assembling the rocket in the VAB.
+The VAB is right through the gate in front of the First Osaki Office and up the hill.
+Considering all of that, it's really sudden to have to push us out within the week.
+Nae: “To be perfectly honest, this launch was decided on just after entering the new year.”
+Nae: “Things are really hectic right now. Nobody's ever heard of a schedule this crazy.”
+Nae: “To be honest, even I'm confused by it all...”
+Nae-san seems full of regret, but at the end of the day, the TNSC is a launch site. This is what they do.
+We were lent this space for free. We have no right to complain.
+And so with that, we have to withdraw.
+Fortunately, JAXA will provide vehicles with which to transport Model-2, so we don't need to do much prep work.
+But considering we just had a successful Model-2 test run, I can't help but feel like we've hit a major bump in the road.

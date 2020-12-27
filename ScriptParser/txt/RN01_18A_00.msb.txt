@@ -1,0 +1,169 @@
+In any case, Akiho continued her strenuous efforts alone, as the Robotics Club's brave president.
+She used the entirety of her day off on Saturday and finally finished reassembling the Prez.
+Akiho: “Kabooom! Zoom zip zaaaam!”
+Akiho makes exaggerated sound effects as she presents the Honorary Prez to me.
+Akiho: “Feast your eyes upon the newly reborn TanegashiMachine 3!”
+Kaito: “You seriously spent your valuable day off before exams on this...?”
+Akiho: “Y-You promised not to talk about that.”
+The only real change to the robot's appearance is the tail-like protrusion on its butt. It's attached to a caster.
+This appears to be the mechanism for the special attack that Akiho mentioned before.
+Akiho: “If possible, I wanted to replace all the servos and sensors with new, higher performance ones.”
+Akiho: “If only we had more time and money...!”
+Infinite cash and time... Now there's a wish that'll never come true.
+Kaito: “So, did you have enough screws?”
+Akiho: “Of course I did... I would never make a mistake like that. And I didn't end up with any extra screws, either!”
+Kaito: “I'm happy for you.”
+Kaito: “So is that the end of your completion ceremony or whatever?”
+About an hour ago, Akiho called and woke me up at this ungodly hour, saying “I've got an announcement to make, so please make sure you come to school today!”
+Akiho: “Yup! All finished.”
+Akiho: “It's time to test this baby out!”
+Akiho: “There's a week left till ROBO-ONE. We gotta test him out so we can get used to his control scheme and squash any remaining bugs along the way.”
+ROBO-ONE spans two days: next Saturday and Sunday.
+Honestly, I don't know if I should be annoyed there's only one week left, or happy we still have a whole week to go.
+Whatever, I'm not gonna stress out over it.
+Akiho: “Lucky for us, final exams next week means school ends at lunchtime everyday. We have plenty of time.”
+Kaito: “I see you have zero intention of studying.”
+Akiho: “This isn't the time for studying.”
+Akiho sticks her thumb up and grins.
+Yup... this is game over.
+Either way, she's decided to do her operational tests in the school hallway.
+I guess I'll watch while playing some Kill-Ballad.
+Akiho: “Umm...”
+Akiho holds a large controller in one hand and carefully reads the manual spread out on the floor of the hallway.
+Kaito: “Is it just me, or does that controller have a few too many switches?”
+Akiho: “Huh? Hmm...”
+The thing's covered in dust after being in storage for a decade. It has two control sticks and more than ten different switches on it.
+As a result, it looks a hell of a lot more intimidating than the old controllers that came with RC toys.
+Kaito: “That's the Prez's controller?”
+Akiho: “Yup, it is.”
+Akiho proudly confirms that for me as she looks up from the manual.
+Akiho: “Did you know my Big Sis came up with a unique system in order to make him easier to control?”
+Kaito: “Did she now?”
+Akiho: “After seeing such godlike operation at ROBO-ONE, the audience was blown away.”
+Akiho takes a deep breath and blows on the controller.
+Akiho: “Cough, cough...”
+She can't help but cough as a cloud of dust from the controller bursts into the air around her.
+This is what happens when you try to do things the quick and easy way. She should've wiped it down first.
+Akiho: “Just looking at the manual isn't gonna get me anywhere. I gotta learn by actually moving him around myself.”
+Akiho: “Kai, help me out.”
+Kaito: “If you want my help, then beat me at—”
+Akiho: “Argh, c'mon! I just want you to help me stand him up is all.”
+Fiiine, I guess I can do that much.
+I nod, and Akiho hands the Prez to me.
+It's actually pretty heavy.
+Now that I'm holding it for myself, I can tell that it's heavier than it looks.
+Akiho: “Put both his feet on the ground and make him stand.”
+I do as I'm told and stand the Honorary Prez up in the hallway.
+However, it can't stand like this on its own, so I support it by holding its shoulders.
+During this time, Akiho flips the power switch on its back to “ON.”
+The Prez looks like it shudders for just a second.
+Accompanied by the sound of spinning motors, it straightens its back out and corrects its posture.
+Akiho: “All right, it worked!”
+Akiho: “Kai, you can let go now.”
+When I take my hands off of it, the Prez stands up gallantly. It's like he's a completely different robot.
+Kaito: “How'd you do that?”
+Akiho: “When the power came on, all the servomotor gears auto-returned to their preset home positions.”
+Akiho: “Long story short, it's a posture that allows it to stand independently.”
+Kaito: “Huh...”
+I figured it had studied the terrain and then automatically adjusted its posture to stand up on its own.
+Akiho: “Alrighty, preparations complete!”
+Akiho looks at the Honorary Prez and gives it a satisfied smile. She readies the bulky controller in her hands.
+Akiho: “The time has finally come! TanegashiMachine 3, launch!”
+Akiho's hands begin to fiddle with the controller.
+The Honorary Prez takes a step forward with its left leg.
+I gotta admit, seeing it walk is starting to get me a little excited.
+The Honorary Prez takes another step with its left leg.
+Then the left leg again.
+Kaito: “Er, it's only moving its left leg.”
+Which means it's just rotating in place with the right leg as its axis.
+Akiho: “Oh, whoops. I messed up, hehe.”
+Akiho: “Once more, with gusto!”
+This time, the right leg moves.
+Then the left leg again.
+Right leg.
+Left. Right. Left. Right.
+Akiho: “Look! Look! He's walking!”
+Kaito: “Looks like it. So what the heck was going on before?”
+Akiho: “I just messed up for a sec...”
+Left leg. Right leg. Right. Left. Right. Left. Left. The left moves a little, then the right.
+It's not walking all that well.
+How bad at controlling it do you have to be to make it move like this?
+Akiho: “The timing's super tough...”
+I stand next to Akiho and watch her finger movements.
+That said, they're relatively simple.
+She's alternating between pushing the left and right control sticks upward.
+I guess each stick corresponds to a leg?
+Kaito: “How do you move the arms?”
+Akiho: “The arms are... Hold on a second.”
+Akiho stops moving her hands and looks at the manual on the floor.
+Akiho: “Let's see, the mode switch is... here. There we go.”
+She appears to search for something on the controller before flipping a switch on its back.
+Akiho: “When you flip this switch...”
+Akiho returns to the two control sticks that were manipulating TanegashiMachine 3's legs earlier.
+Only now, the Honorary Prez's arms are linked to their movement. They move up, down, left, and right.
+Akiho: “Whoaaa, it's perfect!”
+To be honest, the movement tracing is pretty accurate, so it's impressive how freely the little guy can move around.
+The only problem...
+Kaito: “Wait, so does that mean you can't control the legs and arms simultaneously?”
+Akiho: “Yup.”
+“Yup,” she says.
+Kaito: “Wait, are you telling me this is the revolutionary control scheme that shook the very foundations of ROBO-ONE?!”
+Akiho: “Yup.”
+How did Misa-nee manage to win like this...?
+Akiho: “You just don't get it, Kai.”
+Akiho: “People were impressed specifically because of how amazingly my Big Sis fought using this control scheme.”
+Akiho: “I've seen her do it myself, and it really was amazing.”
+Akiho: “She was constantly moving her fingers, never stopping them for even a second.”
+Akiho: “The controller was making noises nonstop. You could hear the flipping of switches constantly. Click, click. Click, click.”
+Akiho: “She was able to use both control sticks and all 14 switches in order to deal with any opponent she'd come across.”
+Akiho: “If anything, I'd argue that operating TanegashiMachine 3 is something that only she can pull off.”
+Kaito: “Makes sense...”
+I definitely agree that Misa-nee is the only one who could make this thing work...
+Kaito: “And you plan to use that super difficult control scheme. Am I on the right track?”
+Akiho: “Th-That's why I'm practicing now, to get used to it...”
+Kaito: “Isn't ROBO-ONE in a week?”
+Akiho: “It is.”
+Kaito: “...”
+Akiho: “...”
+Kaito: “That's impossible.”
+Akiho: “...”
+When I point that out to her, Akiho hangs her head.
+Akiho: “It'll be fine...”
+Akiho: “I may not be able to reach my Big Sis's level in a week, but I'm sure I can get decent enough at it!”
+Akiho: “Everything'll work out just fine.”
+Akiho: “If I have time to give up, I have time to practice!”
+When she raises her head, she's even more spirited than she was before.
+Akiho: “I'll master this crazy controller no matter what! Hoooh, I'm getting fired up...!”
+Here we go again... Ridiculously optimistic as ever.
+But see, even for a fighting game player like me, it'd take like a month to get a feel for these controls.
+It'd be faster to change the controls to something easier for Akiho. If it were me, I'd have it play like KB.
+Needless to say, I don't tell Akiho any of this.
+She can do whatever she wants.
+It isn't my place to interject.
+Akiho: “Anyway, Kai, look! This is what I was talking about the other day! TanegashiMachine 3's special attack!”
+Akiho wears a proud expression on her face, then presses the red button on the controller.
+The Honorary Prez suddenly bends forward.
+Maintaining that pose, it falls backward onto its butt.
+Kaito: “Er, did it just fall down?”
+Akiho: “This is only the beginning.”
+Oh?
+Akiho: “GOOOO!”
+Then, still in the same pose, it suddenly blasts forward!
+Akiho: “Hehe, how'd you like that? He has casters on his heels and butt. Those allow him to charge super fast and use his ultra sliding kick!”
+Akiho: “It works as a surprise attack, or with good timing it can even be used to dodge an opponent and counterattack.”
+Akiho: “I call it the ‘Tanegashi Accel Impact!’”
+Kaito: “Pretty sure that's plagiarism.”
+Akiho: “Don't sweat the details!”
+She's right. It doesn't really matter.
+More importantly...
+Kaito: “Um, when's it gonna stop?”
+The Honorary Prez just keeps charging along down the long hallway.
+Akiho: “Oh, crap! Kai, stop him!”
+Kaito: “How?”
+Akiho: “Chase him!”
+Kaito: “Hold on, there's no way to remotely stop it...?”
+Akiho: “It would've been way too complicated to build that into him!”
+I was honestly pretty curious about this special attack thing because Akiho kept going on about it, but I guess I only have myself to blame for expecting anything.
+Victory is looking more and more like a pipe dream.
+Akiho continued practicing for the rest of the afternoon.
+I quietly played Kill-Ballad while she struggled with the controls. Needless to say, no studying happened.
