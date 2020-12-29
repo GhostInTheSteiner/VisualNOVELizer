@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace ScriptParser
 {
-    internal class ScriptLine
+    internal class ScriptLine : IEnumerable<ScriptLineWord>
     {
         public string Person { get; }
         public ScriptLineWord[] Content { get; }
@@ -65,6 +67,16 @@ namespace ScriptParser
                 case ParseMode.SC3Output:
                     throw new NotImplementedException("SC3 won't ever be implemented!");
             }
+        }
+
+        public IEnumerator<ScriptLineWord> GetEnumerator()
+        {
+            return ((IEnumerable<ScriptLineWord>)Content).GetEnumerator();
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return Content.GetEnumerator();
         }
     }
 

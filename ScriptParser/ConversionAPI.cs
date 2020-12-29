@@ -8,22 +8,22 @@ namespace ScriptParser
     internal class ConversionAPI
     {
         private ScriptParser parser;
-        private DocumentWriter writer;
+        private IDocumentWriter writer;
 
-        public ConversionAPI(ScriptParser parser, DocumentWriter writer)
+        public ConversionAPI(ScriptParser parser, IDocumentWriter writer)
         {
             this.parser = parser;
             this.writer = writer;
         }
 
-        internal ScriptText Parse(string directory)
+        internal ScriptBook Parse(string directory)
         {
             return parser.Parse(directory);
         }
 
-        internal void Export(ScriptText text, string v)
+        internal void Export(ScriptBook book, string filePath)
         {
-            throw new NotImplementedException();
+            writer.Export(book, filePath);
         }
     }
 }

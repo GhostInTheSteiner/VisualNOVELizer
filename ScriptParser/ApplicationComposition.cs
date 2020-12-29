@@ -10,25 +10,25 @@ namespace ScriptParser
 
         public ApplicationComposition(ApplicationConfiguration configuration)
         {
-            Dictionary<string, ParseMode> parseModeMappings = new Dictionary<string, ParseMode>
+            var parseModeMappings = new Dictionary<string, ParseMode>
             {
                 { "DoubleColon", ParseMode.DoubleColon },
                 { "SC3Output", ParseMode.SC3Output }
             };
 
-            Dictionary<string, DocumentFormat> documentFormatMappings = new Dictionary<string, DocumentFormat>
+            var documentWriterMappings = new Dictionary<string, Func<IDocumentWriter>>
             {
-                { "EPUB", DocumentFormat.EPUB },
-                { "Word", DocumentFormat.Word }
+                { "HTML", () => new HTMLDocumentWriter() },
+                { "Word", () => new WordDocumentWriter() }
             };
 
             var parseMode = parseModeMappings[configuration.Parser["ParseMode"]];
             var maxParagraphLength = int.Parse(configuration.Parser["MaxParagraphLength"]);
             var chapters = getChapters(configuration.ParserChapters);
-            var format = documentFormatMappings[configuration.Writer["DocumentFormat"]];
+            var formatWriter = documentWriterMappings[configuration.Writer["DocumentFormat"]];
 
             var parser = new ScriptParser(chapters, parseMode, maxParagraphLength);
-            var writer = new DocumentWriter(format);
+            var writer = formatWriter();
 
             ConversionAPI = new ConversionAPI(parser, writer);
         }

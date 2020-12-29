@@ -22,8 +22,8 @@ namespace ScriptParser
 
             ConversionAPI api = composition.ConversionAPI;
 
-            ScriptText text = api.Parse(args[0]);
-            api.Export(text, args[1]);
+            ScriptBook book = api.Parse(args[0]);
+            api.Export(book, args[1]);
 
             /*
             Program()

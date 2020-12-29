@@ -20,7 +20,7 @@ namespace ScriptParser
             this.maxParagraphLength = maxParagraphLength;
         }
 
-        internal ScriptText Parse(string directory)
+        internal ScriptBook Parse(string directory)
         {
             //t = ScriptText()
             //p = ScriptParagraph()
@@ -51,7 +51,7 @@ namespace ScriptParser
 
             var file = files.First;
 
-            var text = new ScriptText();
+            var book = new ScriptBook();
             var paragraph = new ScriptParagraph();
 
             while (file != null)
@@ -60,11 +60,11 @@ namespace ScriptParser
 
                 if (file.Value.ChapterIndex > previousIndex)
                 {
-                    text.AddChapter(chapters[file.Value.ChapterIndex]);
+                    book.AddChapter(chapters[file.Value.ChapterIndex]);
                 }
                 else
                 {
-                    text.AddSection();
+                    book.AddSection();
                 }
 
                 var lines =
@@ -80,7 +80,7 @@ namespace ScriptParser
 
                     if (paragraph.Lines.Count() > maxParagraphLength) //enforce new paragraph
                     {
-                        text.AddParagraph(paragraph);
+                        book.AddParagraph(paragraph);
                         paragraph = new ScriptParagraph();
                     }
                     else if (line.Value.Person.Equals(previousPerson))
@@ -89,7 +89,7 @@ namespace ScriptParser
                     }
                     else
                     {
-                        text.AddParagraph(paragraph);
+                        book.AddParagraph(paragraph);
                         paragraph = new ScriptParagraph();
                     }
 
@@ -101,7 +101,7 @@ namespace ScriptParser
                 file = file.Next;
             }
 
-            return text;
+            return book;
         }
     }
 }
