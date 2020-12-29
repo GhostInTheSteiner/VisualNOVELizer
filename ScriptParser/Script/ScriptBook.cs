@@ -7,15 +7,19 @@ namespace ScriptParser
 {
     internal class ScriptBook : IEnumerable<KeyValuePair<string, List<List<ScriptParagraph>>>>
     {
+        public string Title { get; }
+
         Dictionary<string, List<List<ScriptParagraph>>> scriptText;
         Queue<string> chaptersOrdered;
         string currentChapter;
 
-        public ScriptBook()
+        public ScriptBook(string title)
         {
             scriptText = new Dictionary<string, List<List<ScriptParagraph>>>();
             chaptersOrdered = new Queue<string>();
             currentChapter = "<no chapters added>";
+
+            Title = title;
         }
 
         internal void AddParagraph(ScriptParagraph paragraph)
@@ -61,16 +65,20 @@ namespace ScriptParser
 
         public IEnumerator<KeyValuePair<string, List<List<ScriptParagraph>>>> GetEnumerator()
         {
-            var chapterName = chaptersOrdered.Dequeue();
-
-            yield return new KeyValuePair<string, List<List<ScriptParagraph>>>(chapterName, scriptText[chapterName]);
+            while (chaptersOrdered.Count() > 0)
+            {
+                var chapterName = chaptersOrdered.Dequeue();
+                yield return new KeyValuePair<string, List<List<ScriptParagraph>>>(chapterName, scriptText[chapterName]);
+            }
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            var chapterName = chaptersOrdered.Dequeue();
-
-            yield return new KeyValuePair<string, List<List<ScriptParagraph>>>(chapterName, scriptText[chapterName]);
+            while (chaptersOrdered.Count() > 0)
+            {
+                var chapterName = chaptersOrdered.Dequeue();
+                yield return new KeyValuePair<string, List<List<ScriptParagraph>>>(chapterName, scriptText[chapterName]);
+            }
         }
     }
 }

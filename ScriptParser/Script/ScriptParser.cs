@@ -12,12 +12,14 @@ namespace ScriptParser
         private Dictionary<int, string> chapters;
         private ParseMode parseMode;
         private int maxParagraphLength;
+        private string title;
 
-        public ScriptParser(Dictionary<int, string> chapters, ParseMode parseMode, int maxParagraphLength)
+        public ScriptParser(string title, Dictionary<int, string> chapters, int maxParagraphLength, ParseMode parseMode)
         {
             this.chapters = chapters;
             this.parseMode = parseMode;
             this.maxParagraphLength = maxParagraphLength;
+            this.title = title;
         }
 
         internal ScriptBook Parse(string directory)
@@ -51,7 +53,7 @@ namespace ScriptParser
 
             var file = files.First;
 
-            var book = new ScriptBook();
+            var book = new ScriptBook(title);
             var paragraph = new ScriptParagraph();
 
             while (file != null)
@@ -78,7 +80,7 @@ namespace ScriptParser
                 {
                     string previousPerson = line.Previous?.Value.Person ?? line.Value.Person;
 
-                    if (paragraph.Lines.Count() > maxParagraphLength) //enforce new paragraph
+                    if (paragraph.Count() > maxParagraphLength) //enforce new paragraph
                     {
                         book.AddParagraph(paragraph);
                         paragraph = new ScriptParagraph();

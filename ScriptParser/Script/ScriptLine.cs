@@ -12,6 +12,7 @@ namespace ScriptParser
         public string ContentString {
             get => 
                 string.Join(" ", Content.Select(word => word.Content).ToArray()); }
+        public bool IsQuoted { get; }
 
         public ScriptLine(string line, ParseMode parseMode)
         {
@@ -22,9 +23,11 @@ namespace ScriptParser
 
                     if (line.StartsWith("“") && line.EndsWith("”"))
                     {
+                        //"<text>"
                         Person = "???";
                         Content =
                             line
+                                .Trim('“', '”')
                                 .Split(' ')
                                 .Select(word =>
                                     new ScriptLineWord
@@ -32,14 +35,18 @@ namespace ScriptParser
                                         Content = word
                                     })
                                 .ToArray();
+
+                        IsQuoted = true;
                     }
                     else if (splitted.Length > 1)
                     {
+                        //Akiho: "<text>"
                         Person = splitted.First();
                         Content =
                             splitted
                                 .Skip(1)
                                 .First() //basically the entire rest
+                                .Trim('“', '”')
                                 .Split(' ')
                                 .Select(word =>
                                     new ScriptLineWord
@@ -47,9 +54,12 @@ namespace ScriptParser
                                         Content = word
                                     })
                                 .ToArray();
+
+                        IsQuoted = true;
                     }
                     else
                     {
+                        //<text>
                         Person = string.Empty;
                         Content =
                             line
@@ -60,6 +70,8 @@ namespace ScriptParser
                                         Content = word
                                     })
                                 .ToArray();
+
+                        IsQuoted = false;
                     }
 
                     break;

@@ -24,10 +24,11 @@ namespace ScriptParser
 
             var parseMode = parseModeMappings[configuration.Parser["ParseMode"]];
             var maxParagraphLength = int.Parse(configuration.Parser["MaxParagraphLength"]);
+            var title = configuration.Parser["BookTitle"];
             var chapters = getChapters(configuration.ParserChapters);
             var formatWriter = documentWriterMappings[configuration.Writer["DocumentFormat"]];
 
-            var parser = new ScriptParser(chapters, parseMode, maxParagraphLength);
+            var parser = new ScriptParser(title, chapters, maxParagraphLength, parseMode);
             var writer = formatWriter();
 
             ConversionAPI = new ConversionAPI(parser, writer);
