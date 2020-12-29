@@ -44,21 +44,29 @@ namespace ScriptParser
                 writer.WriteLine();
 
 
+                writer.AddAttribute(HtmlTextWriterAttribute.Class, "story-area");
+                writer.RenderBeginTag(HtmlTextWriterTag.Div);
+
                 foreach (var chapter in book)
                 {
                     writer.RenderBeginTag(HtmlTextWriterTag.H3);
-                    writer.Write(chapter.Key);
+                    writer.Write(chapter.Key.MainTitle);
+                    writer.RenderEndTag();
+                    writer.WriteLine();
+
+                    writer.RenderBeginTag(HtmlTextWriterTag.H2);
+                    writer.Write(chapter.Key.SubTitle);
                     writer.RenderEndTag();
                     writer.WriteLine();
 
                     foreach (var section in chapter.Value)
                     {
-                        writer.AddAttribute(HtmlTextWriterAttribute.Class, "section");
+                        writer.AddAttribute(HtmlTextWriterAttribute.Class, "story-section");
                         writer.RenderBeginTag(HtmlTextWriterTag.Div);
 
                         foreach (var paragraph in section)
                         {
-                            writer.AddAttribute(HtmlTextWriterAttribute.Class, "paragraph");
+                            writer.AddAttribute(HtmlTextWriterAttribute.Class, "story-paragraph");
                             writer.RenderBeginTag(HtmlTextWriterTag.Div);
 
                             var lineBuilder = new LineBuilder();
@@ -76,6 +84,11 @@ namespace ScriptParser
 
                         writer.RenderEndTag();
                         writer.WriteLine();
+
+                        writer.AddAttribute(HtmlTextWriterAttribute.Class, "story-separator");
+                        writer.RenderBeginTag(HtmlTextWriterTag.Div);
+                        writer.WriteLine("☆☆☆☆☆");
+                        writer.RenderEndTag();
                     }
                 }
             }

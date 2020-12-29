@@ -91,6 +91,9 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ScriptExample\RN01_00A_00.msb.txt" />
+    <Content Include="ScriptExample\RN01_01A_00.msb.txt" />
+    <Content Include="ScriptExample\RN01_01I_00.msb.txt" />
     <Content Include="style.css">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

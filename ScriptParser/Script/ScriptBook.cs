@@ -5,19 +5,19 @@ using System.Linq;
 
 namespace ScriptParser
 {
-    internal class ScriptBook : IEnumerable<KeyValuePair<string, List<List<ScriptParagraph>>>>
+    internal class ScriptBook : IEnumerable<KeyValuePair<ChapterTitle, List<List<ScriptParagraph>>>>
     {
         public string Title { get; }
 
-        Dictionary<string, List<List<ScriptParagraph>>> scriptText;
-        Queue<string> chaptersOrdered;
-        string currentChapter;
+        Dictionary<ChapterTitle, List<List<ScriptParagraph>>> scriptText;
+        Queue<ChapterTitle> chaptersOrdered;
+        ChapterTitle currentChapter;
 
         public ScriptBook(string title)
         {
-            scriptText = new Dictionary<string, List<List<ScriptParagraph>>>();
-            chaptersOrdered = new Queue<string>();
-            currentChapter = "<no chapters added>";
+            scriptText = new Dictionary<ChapterTitle, List<List<ScriptParagraph>>>();
+            chaptersOrdered = new Queue<ChapterTitle>();
+            currentChapter = new ChapterTitle("<no chapters added>", "<no subchapters added>");
 
             Title = title;
         }
@@ -48,7 +48,7 @@ namespace ScriptParser
             }
         }
 
-        internal void AddChapter(string chapter)
+        internal void AddChapter(ChapterTitle chapter)
         {
             if (scriptText.ContainsKey(chapter))
                 throw new Exception("Chapter already exists!");
@@ -63,12 +63,12 @@ namespace ScriptParser
             }
         }
 
-        public IEnumerator<KeyValuePair<string, List<List<ScriptParagraph>>>> GetEnumerator()
+        public IEnumerator<KeyValuePair<ChapterTitle, List<List<ScriptParagraph>>>> GetEnumerator()
         {
             while (chaptersOrdered.Count() > 0)
             {
-                var chapterName = chaptersOrdered.Dequeue();
-                yield return new KeyValuePair<string, List<List<ScriptParagraph>>>(chapterName, scriptText[chapterName]);
+                var chapterTitle = chaptersOrdered.Dequeue();
+                yield return new KeyValuePair<ChapterTitle, List<List<ScriptParagraph>>>(chapterTitle, scriptText[chapterTitle]);
             }
         }
 
@@ -76,9 +76,21 @@ namespace ScriptParser
         {
             while (chaptersOrdered.Count() > 0)
             {
-                var chapterName = chaptersOrdered.Dequeue();
-                yield return new KeyValuePair<string, List<List<ScriptParagraph>>>(chapterName, scriptText[chapterName]);
+                var chapterTitle = chaptersOrdered.Dequeue();
+                yield return new KeyValuePair<ChapterTitle, List<List<ScriptParagraph>>>(chapterTitle, scriptText[chapterTitle]);
             }
+        }
+    }
+
+    public class ChapterTitle
+    {
+        public string MainTitle { get; }
+        public string SubTitle { get; }
+
+        public ChapterTitle(string mainTitle, string subTitle)
+        {
+            MainTitle = mainTitle;
+            SubTitle = subTitle;
         }
     }
 }

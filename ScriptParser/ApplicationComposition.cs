@@ -34,14 +34,17 @@ namespace ScriptParser
             ConversionAPI = new ConversionAPI(parser, writer);
         }
 
-        private Dictionary<int, string> getChapters(NameValueCollection parserChapters)
+        private Dictionary<int, ChapterTitle> getChapters(NameValueCollection parserChapters)
         {
-            Dictionary<int, string> chapters = new Dictionary<int, string>();
+            Dictionary<int, ChapterTitle> chapters = new Dictionary<int, ChapterTitle>();
             int i = 1;
 
             foreach (string chapter in parserChapters)
             {
-                chapters.Add(i++, parserChapters[chapter]);
+                var chapterParts = parserChapters[chapter].Split(';');
+                var chapterTitle = new ChapterTitle(chapterParts[0], chapterParts[1]);
+
+                chapters.Add(i++, chapterTitle);
             }
 
             return chapters;

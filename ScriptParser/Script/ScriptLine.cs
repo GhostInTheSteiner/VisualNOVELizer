@@ -8,11 +8,18 @@ namespace ScriptParser
     internal class ScriptLine : IEnumerable<ScriptLineWord>
     {
         public string Person { get; }
+        public string PersonID { get; }
         public ScriptLineWord[] Content { get; }
         public string ContentString {
             get => 
                 string.Join(" ", Content.Select(word => word.Content).ToArray()); }
         public bool IsQuoted { get; }
+        public EllipsisStyle EllipsisStyle { get; }
+
+        //public ScriptLine(string line, ParseMode parseMode) : this(line, "", parseMode)
+        //{
+
+        //}
 
         public ScriptLine(string line, ParseMode parseMode)
         {
@@ -20,14 +27,18 @@ namespace ScriptParser
             {
                 case ParseMode.DoubleColon:
                     var splitted = line.Split(new[] { ": “" }, StringSplitOptions.None);
+                    var lineRaw = string.Empty;
 
                     if (line.StartsWith("“") && line.EndsWith("”"))
                     {
                         //"<text>"
+                        
+                        lineRaw = line.Trim('“', '”');
+                        
                         Person = "???";
-                        Content =
-                            line
-                                .Trim('“', '”')
+                        PersonID = Guid.NewGuid().ToString();
+                        Content = 
+                            lineRaw
                                 .Split(' ')
                                 .Select(word =>
                                     new ScriptLineWord
@@ -37,16 +48,22 @@ namespace ScriptParser
                                 .ToArray();
 
                         IsQuoted = true;
+                        EllipsisStyle = getEllipsisStyle(lineRaw);
                     }
                     else if (splitted.Length > 1)
                     {
                         //Akiho: "<text>"
-                        Person = splitted.First();
-                        Content =
+
+                        lineRaw =
                             splitted
                                 .Skip(1)
                                 .First() //basically the entire rest
-                                .Trim('“', '”')
+                                .Trim('“', '”');
+
+                        Person = splitted.First();
+                        PersonID = Person;
+                        Content =
+                            lineRaw
                                 .Split(' ')
                                 .Select(word =>
                                     new ScriptLineWord
@@ -56,13 +73,18 @@ namespace ScriptParser
                                 .ToArray();
 
                         IsQuoted = true;
+                        EllipsisStyle = getEllipsisStyle(lineRaw);
                     }
                     else
                     {
                         //<text>
+
+                        lineRaw = line;
+
                         Person = string.Empty;
+                        PersonID = Person;
                         Content =
-                            line
+                            lineRaw
                                 .Split(' ')
                                 .Select(word =>
                                     new ScriptLineWord
@@ -72,6 +94,7 @@ namespace ScriptParser
                                 .ToArray();
 
                         IsQuoted = false;
+                        EllipsisStyle = getEllipsisStyle(lineRaw);
                     }
 
                     break;
@@ -80,6 +103,20 @@ namespace ScriptParser
                     throw new NotImplementedException("SC3 won't ever be implemented!");
             }
         }
+
+        private EllipsisStyle getEllipsisStyle(string lineRaw) =>
+
+            lineRaw.StartsWith("...") && lineRaw.EndsWith("...") ?
+                EllipsisStyle.OnBoth :
+
+            lineRaw.StartsWith("...") ?
+                EllipsisStyle.OnBegin :
+
+            lineRaw.EndsWith("...") ?
+                EllipsisStyle.OnEnd :
+
+            /*else*/
+                EllipsisStyle.None;
 
         public IEnumerator<ScriptLineWord> GetEnumerator()
         {
@@ -93,4 +130,11 @@ namespace ScriptParser
     }
 
     internal enum ParseMode { DoubleColon, SC3Output }
+    
+    internal enum EllipsisStyle { 
+        None = 0,
+        OnEnd = 1, 
+        OnBegin = 2, 
+        OnBoth = 4,
+    }
 }
