@@ -87,7 +87,11 @@ namespace ScriptParser
 
                         writer.AddAttribute(HtmlTextWriterAttribute.Class, "story-separator");
                         writer.RenderBeginTag(HtmlTextWriterTag.Div);
-                        writer.WriteLine("☆☆☆☆☆");
+                        writer.Write("☆☆☆☆☆");
+                        writer.RenderEndTag();
+
+                        writer.AddAttribute(HtmlTextWriterAttribute.Class, "story-pagebreak");
+                        writer.RenderBeginTag(HtmlTextWriterTag.Div);
                         writer.RenderEndTag();
                     }
                 }
